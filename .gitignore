@@ -1,0 +1,9 @@
+# Raw per-district data stays local. Only aggregates are meant for publication.
+results.json
+results.csv
+districts_raw.csv
+cache/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/

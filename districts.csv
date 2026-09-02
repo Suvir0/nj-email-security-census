@@ -1,0 +1,684 @@
+county_code,county_name,district_code,district_name,district_type,nces_id,website_raw,website_domain,website_flag,email_domain,assessed_domain,domain_source,domain_flag,domain_mismatch,shared_domain,shared_with_count
+21,Agency,1431,Marie H. Katzenbach School for the Deaf,agency,,www.mksd.org,mksd.org,,mksd.org,mksd.org,supt_email,,False,False,0
+01,Atlantic,0010,Absecon Public Schools District,regular,3400660,https://www.abseconschools.org/,abseconschools.org,,abseconschools.org,abseconschools.org,supt_email,,False,False,0
+01,Atlantic,0110,Atlantic City School District,regular,3400960,http://www.acboe.org,acboe.org,,acboe.org,acboe.org,supt_email,,False,False,0
+80,Atlantic,6060,Atlantic Community Charter School,charter,3400771,https://www.atlanticcommunitycharter.com,atlanticcommunitycharter.com,,atlanticcommunitycharter.com,atlanticcommunitycharter.com,supt_email,,False,False,0
+01,Atlantic,0125,Atlantic County Special Services School District,special_services,3400006,www.acsssd.net,acsssd.net,,acitech.org,acitech.org,supt_email,,True,True,1
+01,Atlantic,0120,Atlantic County Vocational School District,vocational,3400990,www.acitech.org,acitech.org,,acitech.org,acitech.org,supt_email,,False,True,1
+01,Atlantic,0570,Brigantine Public School District,regular,3402340,www.brigantineschools.org,brigantineschools.org,,brigantineschools.org,brigantineschools.org,supt_email,,False,False,0
+01,Atlantic,0590,Buena Regional School District,regular,3402400,www.buenaschools.org,buenaschools.org,,buena.k12.nj.us,buena.k12.nj.us,supt_email,,True,False,0
+80,Atlantic,7410,Chartertech High School for the Performing Arts,charter,3400019,www.chartertech.org,chartertech.org,,chartertech.org,chartertech.org,supt_email,,False,False,0
+01,Atlantic,0960,Corbin City School District,regular,,n/a,,missing,ocsdnj.org,ocsdnj.org,ba_email,,False,True,2
+01,Atlantic,1300,Egg Harbor City School District,regular,3404530,www.eggharborcityschools.com,eggharborcityschools.com,,eggharborcityschools.com,eggharborcityschools.com,supt_email,,False,False,0
+01,Atlantic,1310,Egg Harbor Township School District,regular,3404560,www.eht.k12.nj.us,eht.k12.nj.us,,eht.k12.nj.us,eht.k12.nj.us,supt_email,,False,False,0
+01,Atlantic,1410,Estell Manor School District,regular,3404860,www.estellmanorschool.com,estellmanorschool.com,,estellmanorschool.com,estellmanorschool.com,supt_email,,False,False,0
+01,Atlantic,1540,Folsom Borough School District,regular,3405280,http://www.folsomschool.org/,folsomschool.org,,folsomschool.org,folsomschool.org,supt_email,,False,False,0
+01,Atlantic,1690,Galloway Township Public School District,regular,3405730,WWW.GTPS.K12.NJ.US,gtps.k12.nj.us,,gtps.k12.nj.us,gtps.k12.nj.us,supt_email,,False,False,0
+01,Atlantic,1790,Greater Egg Harbor Regional High School District,regular,3406060,www.gehrhsd.net,gehrhsd.net,,gehrhsd.net,gehrhsd.net,supt_email,,False,False,0
+01,Atlantic,1940,Hamilton Township School District,regular,3406510,www.hamiltonschools.org,hamiltonschools.org,,hamiltonschools.org,hamiltonschools.org,supt_email,,False,False,0
+01,Atlantic,1960,Hammonton School District,regular,3406570,www.hammontonps.org,hammontonps.org,,hammontonps.org,hammontonps.org,supt_email,,False,False,0
+01,Atlantic,2680,Linwood City School District,regular,3408670,www.linwoodschools.org,linwoodschools.org,,linwoodschools.org,linwoodschools.org,supt_email,,False,False,0
+01,Atlantic,2780,Longport Board of Education,regular,,none,,missing,gmail.com,gmail.com,supt_email,consumer_provider,False,True,2
+01,Atlantic,2910,Mainland Regional High School,regular,3409360,MAINLANDREGIONAL.NET,mainlandregional.net,,mainlandregional.net,mainlandregional.net,supt_email,,False,False,0
+01,Atlantic,3020,Margate City School District,regular,3409690,www.margateschools.org,margateschools.org,,margateschools.org,margateschools.org,supt_email,,False,False,0
+01,Atlantic,3480,Mullica Township School District,regular,3411070,www.mullicaschools.com,mullicaschools.com,,mullicaschools.com,mullicaschools.com,supt_email,,False,False,0
+01,Atlantic,3720,Northfield City School District,regular,3411790,www.ncs-nj.org,ncs-nj.org,,ncs-nj.org,ncs-nj.org,supt_email,,False,False,0
+01,Atlantic,4180,Pleasantville Public School District,regular,3413200,http://www.pps-nj.us/pps/,pps-nj.us,,pps-nj.us,pps-nj.us,supt_email,,False,False,0
+01,Atlantic,4240,Port Republic School District,regular,3413380,www.portnj.org,portnj.org,,portnj.org,portnj.org,supt_email,,False,False,0
+80,Atlantic,6104,Principle Academy Charter School,charter,,www.principleacademycharter.org,principleacademycharter.org,,principleacademycharter.org,principleacademycharter.org,supt_email,,False,False,0
+01,Atlantic,4800,Somers Point School District,regular,3415030,www.sptsd.org,sptsd.org,,sptsd.org,sptsd.org,supt_email,,False,False,0
+01,Atlantic,5350,Ventnor City School District,regular,3416680,www.veccnj.org,veccnj.org,,veccnj.org,veccnj.org,supt_email,,False,False,0
+01,Atlantic,5760,Weymouth Township School District,regular,3417850,www.weymouthtownshipschool.org,weymouthtownshipschool.org,,weymouthtsd.org,weymouthtsd.org,supt_email,,True,False,0
+03,Bergen,0040,Allendale Public School District,regular,3400750,www.allendalek8.com,allendalek8.com,,allendalek8.com,allendalek8.com,supt_email,,False,False,0
+03,Bergen,0080,Alpine School District,regular,3400870,www.alpineschool.org,alpineschool.org,,alpineschool.org,alpineschool.org,supt_email,,False,False,0
+80,Bergen,6013,Bergen Arts and Science Charter School,charter,3400715,https://ilearnschools.org/bergen-arts-science-charter-school/,ilearnschools.org,,ilearnschools.org,ilearnschools.org,supt_email,,False,True,3
+03,Bergen,0285,Bergen County Special Services School District,special_services,3401450,bcss.bergen.org,bergen.org,,bergen.org,bergen.org,supt_email,,False,True,1
+03,Bergen,0290,Bergen County Vocational Technical School District,vocational,3401470,bcts.bergen.org,bergen.org,,bergen.org,bergen.org,supt_email,,False,True,1
+03,Bergen,0300,Bergenfield Borough School District,regular,3401500,www.bergenfield.org,bergenfield.org,,bergenfield.org,bergenfield.org,supt_email,,False,False,0
+03,Bergen,0440,Bogota Public School District,regular,3401920,www.bogotaboe.com,bogotaboe.com,,bogotaboe.com,bogotaboe.com,supt_email,,False,False,0
+03,Bergen,0740,Carlstadt Public School District,regular,3402790,www.carlstadt.org,carlstadt.org,,carlstadtps.org,carlstadtps.org,supt_email,,True,False,0
+03,Bergen,0745,Carlstadt-East Rutherford Regional High School District,regular,3402800,www.bectonhs.org,bectonhs.org,,bectonhs.org,bectonhs.org,supt_email,,False,False,0
+03,Bergen,0890,Cliffside Park School District,regular,3403270,www.cliffsidepark.edu,cliffsidepark.edu,,cliffsidepark.edu,cliffsidepark.edu,supt_email,,False,False,0
+03,Bergen,0930,Closter Public School District,regular,3403390,www.closterschools.org,closterschools.org,,nvnet.org,nvnet.org,supt_email,,True,True,5
+03,Bergen,0990,Cresskill Public School District,regular,3403600,www.cboek12.org,cboek12.org,,cresskillnj.net,cresskillnj.net,supt_email,,True,False,0
+03,Bergen,1070,Demarest School District,regular,3403810,http://demarestpublicschools.org,demarestpublicschools.org,,nvnet.org,nvnet.org,supt_email,,True,True,5
+03,Bergen,1130,Dumont Public School District,regular,3403990,www.dumontnj.org,dumontnj.org,,dumontnj.org,dumontnj.org,supt_email,,False,False,0
+03,Bergen,1230,East Rutherford School District,regular,3404290,www.erboe.net,erboe.net,,erboe.net,erboe.net,supt_email,,False,False,0
+03,Bergen,1270,Edgewater School District,regular,3404440,www.edgewaterschools.org,edgewaterschools.org,,edgewaterschools.org,edgewaterschools.org,supt_email,,False,False,0
+03,Bergen,1345,Elmwood Park School District,regular,3404660,https://www.elmwoodparkschools.org/https://www.elmwoodparkschools.org/,elmwoodparkschools.org,,epps.org,epps.org,supt_email,,True,False,0
+03,Bergen,1360,Emerson Public School District,regular,3404710,www.emersonschools.org,emersonschools.org,,emersonschools.org,emersonschools.org,supt_email,,False,False,0
+03,Bergen,1380,Englewood Cliffs School District,regular,3404770,www.englewoodcliffs.org,englewoodcliffs.org,,englewoodcliffs.org,englewoodcliffs.org,supt_email,,False,False,0
+80,Bergen,6430,Englewood on the Palisades Charter School,charter,3400014,https://www.englewoodcharter.org/,englewoodcharter.org,,englewoodcharter.org,englewoodcharter.org,supt_email,,False,False,0
+03,Bergen,1370,Englewood Public School District,regular,3404740,https://www.epsd.org,epsd.org,,epsd.org,epsd.org,supt_email,,False,False,0
+03,Bergen,1450,Fair Lawn Public School District,regular,3404980,www.fairlawnschools.org,fairlawnschools.org,,fairlawnschools.org,fairlawnschools.org,supt_email,,False,False,0
+03,Bergen,1470,Fairview Public School District,regular,3405070,www.fairviewps.org,fairviewps.org,,fairviewps.org,fairviewps.org,supt_email,,False,False,0
+03,Bergen,1550,Fort Lee School District,regular,3405310,www.flboe.com,flboe.com,,flboe.com,flboe.com,supt_email,,False,False,0
+03,Bergen,1580,Franklin Lakes School District,regular,3405370,www.franklinlakes.k12.nj.us,franklinlakes.k12.nj.us,,franklinlakes.k12.nj.us,franklinlakes.k12.nj.us,supt_email,,False,False,0
+03,Bergen,1700,Garfield Public School District,regular,3405760,gboe.org,gboe.org,,gboe.org,gboe.org,supt_email,,False,False,0
+03,Bergen,1760,Glen Rock Public School District,regular,3405970,WWW.GLENROCKNJ.ORG,glenrocknj.org,,glenrocknj.org,glenrocknj.org,supt_email,,False,False,0
+03,Bergen,1860,Hackensack School District,regular,3406270,hackensackschools.org,hackensackschools.org,,hackensackschools.org,hackensackschools.org,supt_email,,False,False,0
+03,Bergen,2050,Harrington Park School District,regular,3406840,www.hpsd.org,hpsd.org,,hpsd.org,hpsd.org,supt_email,,False,False,0
+03,Bergen,2080,Hasbrouck Heights School District,regular,3406930,www.hhschools.org,hhschools.org,,hhschools.org,hhschools.org,supt_email,,False,False,0
+03,Bergen,2090,Haworth Public School District,regular,3406960,www.haworth.org,haworth.org,,nvnet.org,nvnet.org,supt_email,,True,True,5
+03,Bergen,2180,Hillsdale School District,regular,3407260,www.hillsdaleschools.com,hillsdaleschools.com,,hillsdaleschools.com,hillsdaleschools.com,supt_email,,False,False,0
+03,Bergen,2200,Ho-Ho-Kus School District,regular,3407320,www.hohokus.org,hohokus.org,,hohokus.org,hohokus.org,supt_email,,False,False,0
+03,Bergen,2620,Leonia Public School District,regular,3408520,www.leoniaschools.org,leoniaschools.org,,leoniaschools.org,leoniaschools.org,supt_email,,False,False,0
+03,Bergen,2710,Little Ferry Public School District,regular,3408760,http://www.lfboe.org,lfboe.org,,lfboe.org,lfboe.org,supt_email,,False,False,0
+03,Bergen,2740,Lodi School District,regular,3408850,https://www.lodinjschools.org/,lodinjschools.org,,lodi.k12.nj.us,lodi.k12.nj.us,supt_email,,True,False,0
+03,Bergen,2860,Lyndhurst Public School District,regular,3409210,www.lyndhurstschools.net,lyndhurstschools.net,,lyndhurst.k12.nj.us,lyndhurst.k12.nj.us,supt_email,,True,False,0
+03,Bergen,2900,Mahwah Township Public School District,regular,3409330,www.mahwah.k12.nj.us,mahwah.k12.nj.us,,mahwah.k12.nj.us,mahwah.k12.nj.us,supt_email,,False,False,0
+03,Bergen,3060,Maywood School District,regular,3409810,WWW.MAYWOODSCHOOLS.ORG,maywoodschools.org,,maywoodschools.org,maywoodschools.org,supt_email,,False,False,0
+03,Bergen,3170,Midland Park School District,regular,3410140,www.mpsnj.org,mpsnj.org,,mpsnj.org,mpsnj.org,supt_email,,False,False,0
+03,Bergen,3330,Montvale Board of Education School District,regular,3410620,www.montvalek8.org,montvalek8.org,,montvalek8.org,montvalek8.org,supt_email,,False,False,0
+03,Bergen,3350,Moonachie School District,regular,3410680,www.moonachieschool.org,moonachieschool.org,,moonachieschool.org,moonachieschool.org,supt_email,,False,False,0
+03,Bergen,3550,New Milford Public School District,regular,3411280,www.nmpsd.org,nmpsd.org,,nmpsd.org,nmpsd.org,supt_email,,False,False,0
+03,Bergen,3600,North Arlington School District,regular,3411430,www.navikings.org,navikings.org,,navikings.org,navikings.org,supt_email,,False,False,0
+03,Bergen,3700,Northern Highlands Regional High School District,regular,3411730,www.northernhighlands.org,northernhighlands.org,,northernhighlands.org,northernhighlands.org,supt_email,,False,False,0
+03,Bergen,3710,Northern Valley Regional High School District,regular,3411760,www.nvnet.org,nvnet.org,,nvnet.org,nvnet.org,supt_email,,False,True,5
+03,Bergen,3730,Northvale Public School District,regular,3411820,www.NORTHVALESCHOOL.ORG,northvaleschool.org,,nvnet.org,nvnet.org,supt_email,,True,True,5
+03,Bergen,3740,Norwood Public School District,regular,3411850,www.wearenorwood.org,wearenorwood.org,,wearenorwood.com,wearenorwood.com,supt_email,,True,False,0
+03,Bergen,3760,Oakland Public School District,regular,3411910,www.oaklandschoolsnj.org,oaklandschoolsnj.org,,oaklandschoolsnj.org,oaklandschoolsnj.org,supt_email,,False,False,0
+03,Bergen,3850,Old Tappan Public School District,regular,3412180,www.oldtappanschools.org,oldtappanschools.org,,nvnet.org,nvnet.org,supt_email,,True,True,5
+03,Bergen,3870,Oradell Public School District,regular,3412240,oradellschool.org,oradellschool.org,,oradellschool.org,oradellschool.org,supt_email,,False,False,0
+03,Bergen,3910,Palisades Park School District,regular,3412360,palpkschools.org,palpkschools.org,,palpkschools.org,palpkschools.org,supt_email,,False,False,0
+03,Bergen,3930,Paramus Public School District,regular,3412420,http://www.paramus.k12.nj.us,paramus.k12.nj.us,,paramusschools.org,paramusschools.org,supt_email,,True,False,0
+03,Bergen,3940,Park Ridge School District,regular,3412450,https://www.parkridgeschools.org/,parkridgeschools.org,,parkridge.k12.nj.us,parkridge.k12.nj.us,supt_email,,True,False,0
+03,Bergen,3960,Pascack Valley Regional High School District,regular,3412510,www.pascack.org,pascack.org,,pascack.org,pascack.org,supt_email,,False,False,0
+03,Bergen,4300,Ramapo Indian Hills Regional High School District,regular,3413560,www.rih.org,rih.org,,rih.org,rih.org,supt_email,,False,False,0
+03,Bergen,4310,Ramsey School District,regular,3413590,www.ramsey.k12.nj.us,ramsey.k12.nj.us,,ramsey.k12.nj.us,ramsey.k12.nj.us,supt_email,,False,False,0
+03,Bergen,4380,Ridgefield Park Public School District,regular,3413800,www.rpps.net,rpps.net,,rpschools.net,rpschools.net,supt_email,,True,False,0
+03,Bergen,4370,Ridgefield School District,regular,3413770,www.ridgefieldschools.com,ridgefieldschools.com,,ridgefieldschools.com,ridgefieldschools.com,supt_email,,False,False,0
+03,Bergen,4390,Ridgewood Public School District,regular,3413830,www.rpsnj.us,rpsnj.us,,rpsnj.us,rpsnj.us,supt_email,,False,False,0
+03,Bergen,4405,River Dell Regional School District,regular,3412260,www.riverdell.org,riverdell.org,,riverdell.org,riverdell.org,supt_email,,False,False,0
+03,Bergen,4410,River Edge School District,regular,3413890,www.riveredgeschools.org,riveredgeschools.org,,riveredgeschools.org,riveredgeschools.org,supt_email,,False,False,0
+03,Bergen,4430,River Vale Public School District,regular,3413950,www.rivervaleschools.com,rivervaleschools.com,,rivervaleschools.com,rivervaleschools.com,supt_email,,False,False,0
+03,Bergen,4470,Rochelle Park School District,regular,3414070,www.rochellepark.org,rochellepark.org,,rochellepark.org,rochellepark.org,supt_email,,False,False,0
+03,Bergen,4500,Rockleigh School District,regular,,none,,missing,aol.com,aol.com,ba_email,consumer_provider,False,False,0
+03,Bergen,4600,Rutherford School District,regular,3414460,www.rutherfordschools.org,rutherfordschools.org,,rutherfordschools.org,rutherfordschools.org,supt_email,,False,False,0
+03,Bergen,4610,Saddle Brook School District,regular,3414490,www.sbpsnj.org,sbpsnj.org,,sbpsnj.org,sbpsnj.org,supt_email,,False,False,0
+03,Bergen,4620,Saddle River School District,regular,3414520,www.wandellschool.org,wandellschool.org,,wandellschool.org,wandellschool.org,supt_email,,False,False,0
+03,Bergen,4845,South  Bergen Jointure Commission School District,regular,3400007,www.njsbjc.org,njsbjc.org,,njsbjc.org,njsbjc.org,supt_email,,False,False,0
+03,Bergen,4870,South Hackensack School District,regular,3415240,http://www.shmemorial.org,shmemorial.org,,shmemorial.org,shmemorial.org,supt_email,,False,False,0
+80,Bergen,7890,Teaneck Community Charter School,charter,3400015,www.tccsnj.org,tccsnj.org,,tccsnj.org,tccsnj.org,supt_email,,False,False,0
+03,Bergen,5150,Teaneck School District,regular,3416080,www.teaneckschools.org,teaneckschools.org,,teaneckschools.org,teaneckschools.org,supt_email,,False,False,0
+03,Bergen,5160,Tenafly Public School District,regular,3416110,www.tenaflyschools.org,tenaflyschools.org,,tenafly.k12.nj.us,tenafly.k12.nj.us,supt_email,,True,False,0
+03,Bergen,5330,Upper Saddle River School District,regular,3416620,http://www.usrschoolsk8.com,usrschoolsk8.com,,usrschoolsk8.com,usrschoolsk8.com,supt_email,,False,False,0
+03,Bergen,5410,Waldwick School District,regular,3416860,www.waldwickschools.org,waldwickschools.org,,waldwickschools.org,waldwickschools.org,supt_email,,False,False,0
+03,Bergen,5430,Wallington Boro School District,regular,3416920,www.wboe.org,wboe.org,,wboe.org,wboe.org,supt_email,,False,False,0
+03,Bergen,5755,Westwood Regional School District,regular,3417820,www.wwrsd.org,wwrsd.org,,wwrsd.org,wwrsd.org,supt_email,,False,False,0
+03,Bergen,5830,Wood-Ridge School District,regular,3418300,www.wood-ridgeschools.org,wood-ridgeschools.org,,wood-ridgeschools.org,wood-ridgeschools.org,supt_email,,False,False,0
+03,Bergen,5880,Woodcliff Lake School District,regular,3418210,www.woodcliff-lake.com,woodcliff-lake.com,,woodcliff-lake.com,woodcliff-lake.com,supt_email,,False,False,0
+03,Bergen,5920,Wyckoff Township Public School District,regular,3418360,www.wyckoffps.org,wyckoffps.org,,wyckoffschools.org,wyckoffschools.org,supt_email,,True,False,0
+05,Burlington,0200,Bass River Township Board of Education,regular,3401200,WWW.BASSRIVERSCHOOLDISTRICT.ORG,bassriverschooldistrict.org,,brsdnj.org,brsdnj.org,ba_email,,True,False,0
+80,Burlington,6076,Benjamin Banneker Preparatory Charter School,charter,,www.bannekerprep.com,bannekerprep.com,,bbprepcs.com,bbprepcs.com,supt_email,,True,False,0
+05,Burlington,0380,Beverly City School District,regular,3401740,www.beverlycityschool.org,beverlycityschool.org,,beverlycityschool.org,beverlycityschool.org,supt_email,,False,False,0
+05,Burlington,0475,Bordentown Regional School District,regular,3402030,www.bordentown.k12.nj.us,bordentown.k12.nj.us,,bordentown.k12.nj.us,bordentown.k12.nj.us,supt_email,,False,False,0
+05,Burlington,0600,Burlington City Public School District,regular,3402430,http://www.burlington-nj.net/,burlington-nj.net,,burlington-nj.net,burlington-nj.net,supt_email,,False,False,0
+05,Burlington,0610,Burlington County Institute of Technology School District,regular,3402490,www.burlcoschools.org,burlcoschools.org,,burlcoschools.org,burlcoschools.org,supt_email,,False,True,1
+05,Burlington,0605,Burlington County Special Services School District,special_services,3402440,www.bcsssd.k12.nj.us,bcsssd.k12.nj.us,,burlcoschools.org,burlcoschools.org,supt_email,,True,True,1
+05,Burlington,0620,Burlington Township School District,regular,3402460,www.burltwpsch.org,burltwpsch.org,,burltwpsch.org,burltwpsch.org,supt_email,,False,False,0
+05,Burlington,0830,Chesterfield Township School District,regular,3403090,www.chesterfieldschool.com,chesterfieldschool.com,,chesterfieldschool.com,chesterfieldschool.com,supt_email,,False,False,0
+05,Burlington,0840,Cinnaminson Township School District,regular,3403120,www.cinnaminson.com,cinnaminson.com,,cinnaminson.com,cinnaminson.com,supt_email,,False,False,0
+05,Burlington,1030,Delanco Township School District,regular,3403690,www.delanco.com,delanco.com,,delanco.com,delanco.com,supt_email,,False,False,0
+05,Burlington,1060,Delran Township School District,regular,3403780,www.delranschools.org,delranschools.org,,delranschools.org,delranschools.org,supt_email,,False,False,0
+05,Burlington,1250,Eastampton Township School District,regular,3404350,www.etsdnj.us,etsdnj.us,,etsdnj.us,etsdnj.us,supt_email,,False,False,0
+05,Burlington,1280,Edgewater Park Township School District,regular,3404470,www.edgewaterparksd.org,edgewaterparksd.org,,edgewaterparksd.org,edgewaterparksd.org,supt_email,,False,False,0
+05,Burlington,1420,Evesham Township School District,regular,3404890,www.evesham.k12.nj.us,evesham.k12.nj.us,,evesham.k12.nj.us,evesham.k12.nj.us,supt_email,,False,False,0
+05,Burlington,1520,Florence Township School District,regular,3405220,www.florence.k12.nj.us,florence.k12.nj.us,,florence.k12.nj.us,florence.k12.nj.us,supt_email,,False,False,0
+05,Burlington,1910,Hainesport Township School District,regular,www.hainesport.k12.nj.us,School Safety Specialist,,junk_value,hainesport.k12.nj.us,hainesport.k12.nj.us,supt_email,,False,False,0
+05,Burlington,2610,Lenape Regional High School District,regular,3408490,www.lrhsd.org,lrhsd.org,,lrhsd.org,lrhsd.org,supt_email,,False,False,0
+05,Burlington,2850,Lumberton Township Board of Education,regular,3409180,www.lumberton.k12.nj.us,lumberton.k12.nj.us,,lumberton.k12.nj.us,lumberton.k12.nj.us,supt_email,,False,False,0
+05,Burlington,2960,Mansfield Township School District,regular,3409510,www.mansfieldschool.com,mansfieldschool.com,,mansfieldschool.com,mansfieldschool.com,supt_email,,False,False,0
+05,Burlington,3010,Maple Shade School District,regular,3409660,http://www.mapleshade.org,mapleshade.org,,msemail.org,msemail.org,supt_email,,True,False,0
+05,Burlington,3070,Medford Lakes School District,regular,3409840,www.medford-lakes.k12.nj.us,medford-lakes.k12.nj.us,,medford-lakes.k12.nj.us,medford-lakes.k12.nj.us,supt_email,,False,False,0
+05,Burlington,3080,Medford Township School District,regular,3409870,www.medford.k12.nj.us,medford.k12.nj.us,,medfordschools.net,medfordschools.net,supt_email,,True,False,0
+05,Burlington,3360,Moorestown Township Public School District,regular,3410710,www.mtps.com,mtps.com,,mtps.com,mtps.com,supt_email,,False,False,0
+05,Burlington,3430,Mount Holly Township Public School District,regular,3410920,www.mtholly.k12.nj.us,mtholly.k12.nj.us,,mhtsd.com,mhtsd.com,supt_email,,True,False,0
+05,Burlington,3440,Mount Laurel Township School District,regular,3410950,www.mtlaurelschools.org,mtlaurelschools.org,,mtlaurelschools.org,mtlaurelschools.org,supt_email,,False,False,0
+05,Burlington,3540,New Hanover Township,regular,3411250,http://newhanover.k12.nj.us,newhanover.k12.nj.us,,newhanover.k12.nj.us,newhanover.k12.nj.us,supt_email,,False,False,0
+05,Burlington,3650,North Hanover Township School District,regular,3411580,www.nhanover.com,nhanover.com,,nhanover.com,nhanover.com,supt_email,,False,False,0
+05,Burlington,3690,Northern Burlington County Regional School District,regular,3411700,www.nburlington.com,nburlington.com,,nburlington.com,nburlington.com,supt_email,,False,False,0
+05,Burlington,3920,Palmyra Public School District,regular,3412390,http://palmyraschools.com/,palmyraschools.com,,palmyra.k12.nj.us,palmyra.k12.nj.us,supt_email,,True,False,0
+05,Burlington,4050,Pemberton Township School District,regular,3412810,www.pemberton.k12.nj.us,pemberton.k12.nj.us,,pemb.org,pemb.org,supt_email,,True,False,0
+05,Burlington,4320,Rancocas Valley Regional High School District,regular,3413620,www.rvrhs.com,rvrhs.com,,rvrhs.com,rvrhs.com,supt_email,,False,False,0
+80,Burlington,6026,Riverbank Charter School of Excellence,charter,3400731,http://riverbank.charter.k12.nj.us,charter.k12.nj.us,,charter.k12.nj.us,charter.k12.nj.us,supt_email,,False,True,1
+05,Burlington,4450,Riverside Township School District,regular,3414010,www.riverside.k12.nj.us,riverside.k12.nj.us,,riverside.k12.nj.us,riverside.k12.nj.us,supt_email,,False,False,0
+05,Burlington,4460,Riverton School District,regular,3414040,https://rivertonschool.com/,rivertonschool.com,,riverton.k12.nj.us,riverton.k12.nj.us,supt_email,,True,False,0
+05,Burlington,4740,Shamong Township School District,regular,3414880,www.shamongschools.org,shamongschools.org,,shamongschools.org,shamongschools.org,supt_email,,False,False,0
+05,Burlington,4930,Southampton Township School District,regular,3415420,www.stsdwarriors.org,stsdwarriors.org,,stsdwarriors.org,stsdwarriors.org,supt_email,,False,False,0
+05,Burlington,5010,Springfield Township School District,regular,3415660,www.springfieldschool.org,springfieldschool.org,,springfieldschool.org,springfieldschool.org,supt_email,,False,False,0
+05,Burlington,5130,Tabernacle Township School District,regular,3416020,www.tabschools.org,tabschools.org,,tabschools.org,tabschools.org,supt_email,,False,False,0
+05,Burlington,5490,Washington Township School District,regular,3417040,www.wtgreenbank.k12.nj.us,wtgreenbank.k12.nj.us,,gmail.com,gmail.com,ba_email,consumer_provider,True,True,2
+05,Burlington,5720,Westampton Township Public School District,regular,3417730,www.westamptonschools.org,westamptonschools.org,,westamptonschools.org,westamptonschools.org,supt_email,,False,False,0
+05,Burlington,5805,Willingboro Public School District,regular,3418000,www.willingboroschools.org,willingboroschools.org,,wboe.net,wboe.net,supt_email,,True,False,0
+05,Burlington,5890,Woodland Township School District,regular,3418240,www.woodlandboe.org,woodlandboe.org,,woodlandboe.org,woodlandboe.org,supt_email,,False,False,0
+07,Camden,0150,Audubon Public School District,regular,3401050,www.audubonschools.org,audubonschools.org,,audubonschools.org,audubonschools.org,supt_email,,False,False,0
+07,Camden,0190,Barrington School District,regular,3401170,www.barringtonschools.net,barringtonschools.net,,barringtonschools.net,barringtonschools.net,supt_email,,False,False,0
+07,Camden,0260,Bellmawr Public School District,regular,3401380,www.bellmawrschools.org,bellmawrschools.org,,bellmawrschools.org,bellmawrschools.org,supt_email,,False,False,0
+07,Camden,0330,Berlin Borough School District,regular,3401590,www.bcsberlin.org,bcsberlin.org,,bcsberlin.org,bcsberlin.org,supt_email,,False,False,0
+07,Camden,0340,Berlin Township School District,regular,3401620,www.btwpschools.org,btwpschools.org,,btwpschools.org,btwpschools.org,supt_email,,False,False,0
+07,Camden,0390,Black Horse Pike Regional School District,regular,3401770,www.bhprsd.org,bhprsd.org,,bhprsd.org,bhprsd.org,supt_email,,False,False,0
+07,Camden,0580,Brooklawn Public School District,regular,3402370,www.alicecostello.com,alicecostello.com,,alicecostello.com,alicecostello.com,supt_email,,False,False,0
+07,Camden,0680,Camden City School District,regular,3402640,WWW.CAMDENCITYSCHOOLS.ORG,camdencityschools.org,,camden.k12.nj.us,camden.k12.nj.us,supt_email,,True,False,0
+07,Camden,0695,Camden County Educational Services Commission,regular,3480340,www.camdenesc.org,camdenesc.org,,camdenesc.org,camdenesc.org,supt_email,,False,False,0
+07,Camden,0700,Camden County Technical School District,vocational,3402670,www.ccts.org,ccts.org,,ccts.net,ccts.net,supt_email,,True,False,0
+07,Camden,1801,"Camden Prep, Inc.",regular,3400776,www.camdenprep.uncommonschools.org,uncommonschools.org,,uncommonschools.org,uncommonschools.org,supt_email,,False,True,1
+80,Camden,6107,Camden's Promise Charter School,charter,,www.promiseacademycharter.org,promiseacademycharter.org,,camdencsn.org,camdencsn.org,supt_email,,True,False,0
+07,Camden,0800,Cherry Hill School District,regular,3403000,www.chclc.org,chclc.org,,chclc.org,chclc.org,supt_email,,False,False,0
+07,Camden,0810,Chesilhurst Board of Education,regular,,www.chesilhurstboe.org,chesilhurstboe.org,,foundationsinc.org,foundationsinc.org,ba_email,,True,False,0
+07,Camden,0880,Clementon Elementary School District,regular,3403240,http://clemsd.org,clemsd.org,,clemsd.org,clemsd.org,supt_email,,False,False,0
+07,Camden,0940,Collingswood Public School District,regular,3403420,www.collsk12.org,collsk12.org,,collsk12.org,collsk12.org,supt_email,,False,True,1
+07,Camden,1255,Eastern Camden County Regional School District,regular,3404380,www.eccrsd.us,eccrsd.us,,eccrsd.us,eccrsd.us,supt_email,,False,False,0
+07,Camden,1720,Gibbsboro Elementary School District,regular,3405850,www.gibbsboroschool.org,gibbsboroschool.org,,gibbsboroschool.org,gibbsboroschool.org,supt_email,,False,False,0
+07,Camden,1770,Gloucester City Public School District,regular,3406000,gcsd.k12.nj.us,gcsd.k12.nj.us,,gcsd.k12.nj.us,gcsd.k12.nj.us,supt_email,,False,False,0
+07,Camden,1780,Gloucester Township Public Schools,regular,3406030,www.gloucestertownshipschools.org,gloucestertownshipschools.org,,gloucestertownshipschools.org,gloucestertownshipschools.org,supt_email,,False,False,0
+07,Camden,1880,HADDON HEIGHTS School District,regular,3406330,www.gogarnets.com,gogarnets.com,,gogarnets.com,gogarnets.com,supt_email,,False,False,0
+07,Camden,1890,Haddon Township School District,regular,3406360,HADDONTWPSCHOOLS.COM,haddontwpschools.com,,htsd.us,htsd.us,supt_email,,True,False,0
+07,Camden,1900,Haddonfield School District,regular,3406390,haddonfield.k12.nj.us,haddonfield.k12.nj.us,,haddonfield.k12.nj.us,haddonfield.k12.nj.us,supt_email,,False,False,0
+07,Camden,2130,Hi Nella,regular,,stratford.k12.nj.us,stratford.k12.nj.us,,stratfordschools.org,stratfordschools.org,ba_email,,True,True,1
+80,Camden,6086,Hope Community Charter School,charter,3400763,http://www.hopecommunitycharterschool.org,hopecommunitycharterschool.org,,hopecommunitycharter.org,hopecommunitycharter.org,supt_email,,True,False,0
+07,Camden,1799,"KIPP: Cooper Norcross, A New Jersey Nonprofit Corporation",regular,3400777,http://www.kippnj.org,kippnj.org,,kippnj.org,kippnj.org,supt_email,,False,True,2
+07,Camden,2540,Laurel Springs School District,regular,3408280,www.laurelspringschool.org,laurelspringschool.org,,laurelspringschool.org,laurelspringschool.org,supt_email,,False,False,0
+07,Camden,2560,Lawnside School District,regular,3408340,www.lawnside.k12.nj.us,lawnside.k12.nj.us,,lawnside.k12.nj.us,lawnside.k12.nj.us,supt_email,,False,False,0
+80,Camden,7109,LEAP Academy University Charter School,charter,3400078,www.leapacademycharter.org,leapacademycharter.org,,rutgers.edu,rutgers.edu,supt_email,,True,False,0
+07,Camden,2670,Lindenwold Public School District,regular,3408640,www.lindenwold.k12.nj.us,lindenwold.k12.nj.us,,lindenwold.k12.nj.us,lindenwold.k12.nj.us,supt_email,,False,False,0
+07,Camden,2890,Magnolia School District,regular,3409300,www.magnoliaschools.org,magnoliaschools.org,,magnoliaschools.org,magnoliaschools.org,supt_email,,False,False,0
+07,Camden,1802,"Mastery Schools of Camden, Inc.",regular,3400772,www.masterynj.org,masterynj.org,,masterycharter.org,masterycharter.org,supt_email,,True,False,0
+07,Camden,3110,Merchantville School District,regular,3409960,www.merchantvilleschool.org,merchantvilleschool.org,,merchantville.k12.nj.us,merchantville.k12.nj.us,supt_email,,True,False,0
+07,Camden,3420,Mt. Ephraim School District,regular,3410890,www.mtephraimschools.com,mtephraimschools.com,,mtephraimschools.com,mtephraimschools.com,supt_email,,False,False,0
+07,Camden,3770,Oaklyn Public School District,regular,3411940,www.oaklynschool.org,oaklynschool.org,,collsk12.org,collsk12.org,supt_email,,True,True,1
+07,Camden,4060,Pennsauken Township Board of Education School District,regular,3412870,PENNSAUKEN.NET,pennsauken.net,,pennsauken.net,pennsauken.net,supt_email,,False,False,0
+07,Camden,4110,Pine Hill School District,regular,3412990,www.pinehillschools.org,pinehillschools.org,,pinehillschools.org,pinehillschools.org,supt_email,,False,False,0
+07,Camden,4590,Runnemede Public School District,regular,3414430,www.runnemedeschools.org,runnemedeschools.org,,runnemedeschools.org,runnemedeschools.org,supt_email,,False,False,0
+07,Camden,4790,Somerdale School District,regular,3415000,www.somerdale-park.org,somerdale-park.org,,somerdale-park.org,somerdale-park.org,supt_email,,False,False,0
+07,Camden,5035,Sterling Regional School District,regular,3402880,www.sterling.k12.nj.us,sterling.k12.nj.us,,sterling.k12.nj.us,sterling.k12.nj.us,supt_email,,False,False,0
+07,Camden,5080,Stratford School District,regular,3415870,www.stratfordschools.org,stratfordschools.org,,stratfordschools.org,stratfordschools.org,supt_email,,False,True,1
+07,Camden,5400,Voorhees Township School District,regular,3416830,www.voorhees.k12.nj.us,voorhees.k12.nj.us,,voorhees.k12.nj.us,voorhees.k12.nj.us,supt_email,,False,False,0
+07,Camden,5560,Waterford Township School District,regular,3417250,www.wtsd.org,wtsd.org,,wtsd.org,wtsd.org,supt_email,,False,False,0
+07,Camden,5820,Winslow Township School District,regular,3418060,www.winslow-schools.com,winslow-schools.com,,winslow-schools.com,winslow-schools.com,supt_email,,False,False,0
+07,Camden,5900,Woodlynne School District,regular,3418270,www.woodlynne.k12.nj.us,woodlynne.k12.nj.us,,woodlynne.k12.nj.us,woodlynne.k12.nj.us,supt_email,,False,False,0
+09,Cape May,0170,Avalon School District,regular,3401110,www.avalonstoneharborschools.org,avalonstoneharborschools.org,,avesnj.org,avesnj.org,supt_email,,True,True,1
+09,Cape May,0710,Cape May City School District,regular,3402700,http://www.cmcboe.org,cmcboe.org,,cmcboe.net,cmcboe.net,supt_email,,True,False,0
+09,Cape May,0715,Cape May County Special Services School District,special_services,3402740,www.cmcspecialservices.org,cmcspecialservices.org,,capemaytech.com,capemaytech.com,supt_email,,True,True,1
+09,Cape May,0720,Cape May County Technical High School District,vocational,3402730,http://www.capemaytech.com,capemaytech.com,,capemaytech.com,capemaytech.com,supt_email,,False,True,1
+09,Cape May,0730,Cape May Point School District,regular,,www.capemaycityschool.org,capemaycityschool.org,,comcast.net,comcast.net,ba_email,consumer_provider,True,True,1
+09,Cape May,1080,Dennis Township School District,regular,3403840,www.dtschools.org,dtschools.org,,dtschools.org,dtschools.org,supt_email,,False,False,0
+09,Cape May,2820,Lower Cape May Regional School District,regular,3409090,www.lcmrschools.com,lcmrschools.com,,lcmrschools.com,lcmrschools.com,supt_email,,False,False,0
+09,Cape May,2840,Lower Township Elementary School District,regular,3409150,www.lowertwpschools.com,lowertwpschools.com,,lowertwpschools.com,lowertwpschools.com,supt_email,,False,False,0
+09,Cape May,3130,Middle Township Public School District,regular,3410020,https://middletownshippublicschools.org/,middletownshippublicschools.org,,middletwp.k12.nj.us,middletwp.k12.nj.us,supt_email,,True,False,0
+09,Cape May,3680,North Wildwood School District,regular,3411670,www.mmace.com,mmace.com,,mmace.com,mmace.com,supt_email,,False,False,0
+09,Cape May,3780,Ocean City School District,regular,3411970,www.ocsdnj.org,ocsdnj.org,,ocsdnj.org,ocsdnj.org,supt_email,,False,True,2
+09,Cape May,4700,Sea Isle City Board of Education,regular,3414760,www.seaislecitynj.us/SchoolBoard,seaislecitynj.us,,ocsdnj.org,ocsdnj.org,ba_email,,True,True,2
+09,Cape May,5060,Stone Harbor School District,regular,3415810,www.avalonstoneharborschools.org,avalonstoneharborschools.org,,avesnj.org,avesnj.org,supt_email,,True,True,1
+09,Cape May,5340,Upper Township School District,regular,3416650,www.upperschools.org,upperschools.org,,upperschools.org,upperschools.org,supt_email,,False,False,0
+09,Cape May,5610,West Cape May School District,regular,3417400,http://wcmschool.net,wcmschool.net,,wcmschool.net,wcmschool.net,supt_email,,False,False,0
+09,Cape May,5700,West Wildwood School District,regular,,n/a,,missing,comcast.net,comcast.net,ba_email,consumer_provider,False,True,1
+09,Cape May,5790,Wildwood City School District,regular,3417940,https://www.wwschools.org/,wwschools.org,,wwschools.org,wwschools.org,supt_email,,False,False,0
+09,Cape May,5800,Wildwood Crest Borough School District,regular,3417970,WWW.CRESTMEM.EDU,crestmem.edu,,crestmem.edu,crestmem.edu,supt_email,,False,False,0
+09,Cape May,5840,Woodbine School District,regular,3418090,www.wesnj.org,wesnj.org,,capemayschools.com,capemayschools.com,supt_email,,True,False,0
+11,Cumberland,0540,Bridgeton City School District,regular,3402250,www.Bridgeton.k12.nj.us,bridgeton.k12.nj.us,,bridgeton.org,bridgeton.org,supt_email,,True,False,0
+80,Cumberland,6100,Bridgeton Public Charter School,charter,,www.bridgetonpubliccharterschool.org,bridgetonpubliccharterschool.org,,cccharters.org,cccharters.org,supt_email,,True,True,2
+11,Cumberland,0950,Commercial Township School District,regular,3403480,www.commercialschools.org,commercialschools.org,,commercialschools.org,commercialschools.org,supt_email,,False,False,0
+80,Cumberland,6089,Compass Academy Charter School,charter,,www.compassacademycharter.org,compassacademycharter.org,,compassacs.org,compassacs.org,supt_email,,True,False,0
+11,Cumberland,0995,Cumberland County Board of Vocational Education,vocational,3403610,www.cctecnj.org,cctecnj.org,,cctecnj.org,cctecnj.org,supt_email,,False,False,0
+11,Cumberland,0997,Cumberland Regional School District,regular,3403620,www.crhsd.org,crhsd.org,,crhsd.org,crhsd.org,supt_email,,False,False,0
+11,Cumberland,1020,Deerfield Township School District,regular,3403660,www.deerfield.k12.nj.us,deerfield.k12.nj.us,,deerfield.k12.nj.us,deerfield.k12.nj.us,supt_email,,False,False,0
+11,Cumberland,1120,Downe Township School District,regular,3403960,www.downeschool.org,downeschool.org,,downeschool.org,downeschool.org,supt_email,,False,False,0
+11,Cumberland,1460,Fairfield Township School District,regular,3405040,www.fairfield.k12.nj.us,fairfield.k12.nj.us,,fairfield.k12.nj.us,fairfield.k12.nj.us,supt_email,,False,False,0
+11,Cumberland,1466,Greenwich Stow Creek Regional School District,regular,3480371,http://www.gscnj.org,gscnj.org,,gscnj.org,gscnj.org,supt_email,,False,False,0
+11,Cumberland,2270,Hopewell Township School District,regular,3407500,hopewellcrest.org,hopewellcrest.org,,hopewellcrest.org,hopewellcrest.org,supt_email,,False,False,0
+11,Cumberland,2570,Lawrence Township School District,regular,3408370,www.myronlpowell.org,myronlpowell.org,,myronlpowell.org,myronlpowell.org,supt_email,,False,False,0
+11,Cumberland,3050,Maurice River Township School District,regular,3409780,WWW.MRTES.COM,mrtes.com,,mrtes.com,mrtes.com,supt_email,,False,False,0
+80,Cumberland,6069,Millville Public Charter School District,charter,3400749,millvillepubliccharterschool.org,millvillepubliccharterschool.org,,cccharters.org,cccharters.org,supt_email,,True,True,2
+11,Cumberland,3230,Millville School District,regular,3410320,www.millville.org,millville.org,,millville.org,millville.org,supt_email,,False,False,0
+11,Cumberland,5300,Upper Deerfield Township School District,regular,3416530,www.udts.org,udts.org,,udts.org,udts.org,supt_email,,False,False,0
+80,Cumberland,6028,Vineland Public Charter School,charter,3400729,http://www.vinelandpubliccharterschool.org/,vinelandpubliccharterschool.org,,cccharters.org,cccharters.org,supt_email,,True,True,2
+11,Cumberland,5390,Vineland Public School District,regular,3416800,www.vineland.org,vineland.org,,vineland.org,vineland.org,supt_email,,False,False,0
+13,Essex,0250,Belleville Public School District,regular,3401350,www.bellevilleschools.org,bellevilleschools.org,,bellevilleschools.org,bellevilleschools.org,supt_email,,False,False,0
+13,Essex,0410,Bloomfield Township School District,regular,3401830,www.bloomfield.k12.nj.us,bloomfield.k12.nj.us,,bloomfield.k12.nj.us,bloomfield.k12.nj.us,supt_email,,False,False,0
+80,Essex,6022,Burch Charter School of Excellence,charter,3400724,www.burchcharterschool.org,burchcharterschool.org,,burchcharterschool.org,burchcharterschool.org,supt_email,,False,False,0
+13,Essex,0660,Caldwell-West School District,regular,3402580,www.cwcboe.org,cwcboe.org,,cwcboe.org,cwcboe.org,supt_email,,False,False,0
+13,Essex,0760,Cedar Grove Township School District,regular,3402850,http://www.cgschools.org,cgschools.org,,cgschools.org,cgschools.org,supt_email,,False,False,0
+80,Essex,6320,Discovery Charter School,charter,3400020,www.discoverycs.org,discoverycs.org,,discoverycs.org,discoverycs.org,supt_email,,False,False,0
+80,Essex,6410,East Orange Community Charter School,charter,3400021,www.theeoccs.org,theeoccs.org,,eocharter.org,eocharter.org,supt_email,,True,False,0
+13,Essex,1210,East Orange School District,regular,3404230,www.eastorange.k12.nj.us,eastorange.k12.nj.us,,eastorange.k12.nj.us,eastorange.k12.nj.us,supt_email,,False,False,0
+13,Essex,1390,Essex County Schools of Technology,regular,3404800,www.essextech.org,essextech.org,,essextech.org,essextech.org,supt_email,,False,False,0
+13,Essex,1400,Essex Fells School District,regular,3404830,www.efsk-6.org,efsk-6.org,,efsk-6.org,efsk-6.org,supt_email,,False,False,0
+13,Essex,1387,Essex Regional Educational Services Commission,regular,3480300,www.eresc.org,eresc.org,,eresc.com,eresc.com,supt_email,,True,False,0
+13,Essex,1465,Fairfield Public School District,regular,3405010,www.fpsk6.org,fpsk6.org,,fpsk6.org,fpsk6.org,supt_email,,False,False,0
+80,Essex,7021,Gateway Academy Charter School,charter,3480365,https://gatewayacademy.org,gatewayacademy.org,,brickeducation.org,brickeducation.org,supt_email,,True,False,0
+13,Essex,1750,Glen Ridge Public School District,regular,3405940,www.glenridge.org,glenridge.org,,glenridge.org,glenridge.org,supt_email,,False,False,0
+80,Essex,6665,Gray Charter School,charter,3400064,www.graycharterschool.com,graycharterschool.com,,graycharterschool.org,graycharterschool.org,supt_email,,True,False,0
+80,Essex,6053,Great Oaks Legacy Charter School,charter,3400751,www.greatoakslegacy.org,greatoakslegacy.org,,greatoakslegacy.org,greatoakslegacy.org,supt_email,,False,False,0
+13,Essex,2330,Irvington Public School District,regular,3407680,www.irvington.k12.nj.us,irvington.k12.nj.us,,irvington.k12.nj.us,irvington.k12.nj.us,supt_email,,False,False,0
+80,Essex,6109,LEAD Charter School,charter,,http://leadcharterschool.org/,leadcharterschool.org,,leadcharterschool.org,leadcharterschool.org,supt_email,,False,False,0
+80,Essex,6099,Link Community Charter School,charter,3400773,www.linkschool.org,linkschool.org,,linkschool.org,linkschool.org,supt_email,,False,False,0
+13,Essex,2730,Livingston Board of Education School District,regular,3408820,www.livingston.org,livingston.org,,livingston.org,livingston.org,supt_email,,False,False,0
+80,Essex,7735,Maria L. Varisco-Rogers Charter School,charter,3400026,www.mlvrcs.org,mlvrcs.org,,mlvrcs.org,mlvrcs.org,supt_email,,False,False,0
+80,Essex,7210,Marion P. Thomas Charter School,charter,3400022,http://www.mptcs.org,mptcs.org,,mptcs.org,mptcs.org,supt_email,,False,False,0
+13,Essex,3190,Millburn Township School District,regular,3410200,www.millburn.org,millburn.org,,millburn.org,millburn.org,supt_email,,False,False,0
+13,Essex,3310,Montclair Public School District,regular,3410560,www.montclair.k12.nj.us,montclair.k12.nj.us,,montclair.k12.nj.us,montclair.k12.nj.us,supt_email,,False,False,0
+80,Essex,7290,New Horizons Community Charter School,charter,3400023,www.nhccschools.org/,nhccschools.org,,nhccschool.org,nhccschool.org,supt_email,,True,False,0
+80,Essex,6029,Newark Educators Community Charter School,charter,3400730,www.newarkeducators.org,newarkeducators.org,,newarkeducators.org,newarkeducators.org,supt_email,,False,False,0
+13,Essex,3570,Newark Public School District,regular,3411340,WWW.NPS.K12.NJ.US,nps.k12.nj.us,,nps.k12.nj.us,nps.k12.nj.us,supt_email,,False,False,0
+13,Essex,3630,North Caldwell School District,regular,3411520,www.ncboe.org,ncboe.org,,ncboe.org,ncboe.org,supt_email,,False,False,0
+80,Essex,7320,North Star Academy Charter School,charter,3400024,https://northstar.uncommonschools.org/,uncommonschools.org,,uncommonschools.org,uncommonschools.org,supt_email,,False,True,1
+13,Essex,3750,Nutley Public School District,regular,3411880,www.nutleyschools.org,nutleyschools.org,,nutleyschools.org,nutleyschools.org,supt_email,,False,False,0
+13,Essex,3880,ORANGE BOARD OF EDUCATION School District,regular,3412270,www.orange.k12.nj.us,orange.k12.nj.us,,orange.k12.nj.us,orange.k12.nj.us,supt_email,,False,False,0
+80,Essex,6094,Philip's Academy Charter School,charter,,http://www.pacsnewark.org,pacsnewark.org,,pacsnewark.org,pacsnewark.org,supt_email,,False,False,0
+80,Essex,6020,Pride Academy Charter School District,charter,3400719,www.prideacs.org,prideacs.org,,prideacs.org,prideacs.org,supt_email,,False,False,0
+80,Essex,7730,Robert Treat Academy Charter School,charter,3400025,www.RobertTreatAcademy.org,roberttreatacademy.org,,roberttreatacademy.org,roberttreatacademy.org,supt_email,,False,False,0
+13,Essex,4530,Roseland School District,regular,3414250,www.roselandnjboe.org,roselandnjboe.org,,roselandnjboe.org,roselandnjboe.org,supt_email,,False,False,0
+80,Essex,6058,Roseville Community Charter School,charter,3400755,www.rosevillecharter.org,rosevillecharter.org,,rosevillecharter.org,rosevillecharter.org,supt_email,,False,False,0
+13,Essex,4900,South Orange-Maplewood School District,regular,3415330,https://www.somsdk12.org/,somsdk12.org,,somsd.k12.nj.us,somsd.k12.nj.us,supt_email,,True,False,0
+80,Essex,7325,TEAM Academy Charter School,charter,3400070,http://www.kippnj.org,kippnj.org,,kippnj.org,kippnj.org,supt_email,,False,True,2
+13,Essex,5370,Verona Public School District,regular,3416740,www.veronaschools.org,veronaschools.org,,veronaschools.org,veronaschools.org,supt_email,,False,False,0
+13,Essex,5630,West Essex Regional School District,regular,3417460,www.westex.org,westex.org,,westex.org,westex.org,supt_email,,False,False,0
+13,Essex,5680,West Orange Public Schools,regular,3417610,http://www.woboe.org,woboe.org,,westorangeschools.org,westorangeschools.org,supt_email,,True,False,0
+15,Gloucester,0860,Clayton Public School District,regular,3403180,www.claytonps.org,claytonps.org,,claytonps.org,claytonps.org,supt_email,,False,False,0
+15,Gloucester,0870,Clearview Regional High School District,regular,3403210,www.clearviewregional.edu,clearviewregional.edu,,clearviewregional.edu,clearviewregional.edu,supt_email,,False,False,0
+15,Gloucester,4940,Delsea Regional High School District,regular,3415450,www.delsearegional.us,delsearegional.us,,delsearegional.us,delsearegional.us,supt_email,,False,False,0
+15,Gloucester,1100,Deptford Township Public School District,regular,3403900,https://www.deptfordschools.org/,deptfordschools.org,,deptford.k12.nj.us,deptford.k12.nj.us,supt_email,,True,False,0
+15,Gloucester,1180,East Greenwich Township School District,regular,3404140,www.eastgreenwich.k12.nj.us,eastgreenwich.k12.nj.us,,eastgreenwich.k12.nj.us,eastgreenwich.k12.nj.us,supt_email,,False,False,0
+15,Gloucester,1330,Elk Township School District,regular,3404620,www.auraelementary.us,auraelementary.us,,auraelementary.us,auraelementary.us,supt_email,,False,False,0
+15,Gloucester,1715,Gateway Regional High School District,regular,3405820,http://www.gatewayhs.com,gatewayhs.com,,gatewayhs.com,gatewayhs.com,supt_email,,False,True,2
+15,Gloucester,1730,Glassboro Public School District,regular,3405880,http://www.gpsd.us,gpsd.us,,gpsd.us,gpsd.us,supt_email,,False,False,0
+15,Gloucester,1774,Gloucester County Special Services School District,special_services,3480363,www.gcsssd.org,gcsssd.org,,gcecnj.org,gcecnj.org,supt_email,,True,True,1
+15,Gloucester,1775,Gloucester County Vocational-Technical School District,vocational,3406040,www.gcit.org,gcit.org,,gcecnj.org,gcecnj.org,supt_email,,True,True,1
+15,Gloucester,1830,Greenwich Township School District,regular,3406180,www.gtsdk8.us,gtsdk8.us,,gtsdk8.us,gtsdk8.us,supt_email,,False,False,0
+15,Gloucester,2070,Harrison Township School District,regular,3406900,www.harrisontwp.k12.nj.us,harrisontwp.k12.nj.us,,harrisontwp.k12.nj.us,harrisontwp.k12.nj.us,supt_email,,False,False,0
+15,Gloucester,2440,Kingsway Regional School District,regular,3407980,www.krsd.org,krsd.org,,krsd.us,krsd.us,supt_email,,True,False,0
+15,Gloucester,2750,Logan Township School District,regular,3408880,www.logantownshipschools.org,logantownshipschools.org,,logantownshipschools.org,logantownshipschools.org,supt_email,,False,False,0
+15,Gloucester,2990,Mantua Township School District,regular,3409600,www.mantuaschools.com,mantuaschools.com,,mantuaschools.com,mantuaschools.com,supt_email,,False,False,0
+15,Gloucester,3280,Monroe Township Public School District,regular,3410470,www.monroetwp.k12.nj.us/,monroetwp.k12.nj.us,,monroetwp.k12.nj.us,monroetwp.k12.nj.us,supt_email,,False,False,0
+15,Gloucester,3490,National Park Borough School District,regular,3411100,www.npelem.com,npelem.com,,gatewayhs.com,gatewayhs.com,supt_email,,True,True,2
+15,Gloucester,3580,Newfield Boro School District,regular,,n/a,,missing,gmail.com,gmail.com,ba_email,consumer_provider,False,True,2
+15,Gloucester,4020,Paulsboro School District,regular,3412720,WWW.PAULSBORO.K12.NJ.US,paulsboro.k12.nj.us,,paulsboro.k12.nj.us,paulsboro.k12.nj.us,supt_email,,False,False,0
+15,Gloucester,4140,Pitman Boro School District,regular,3413080,http://pitman.k12.nj.us,pitman.k12.nj.us,,pitman.k12.nj.us,pitman.k12.nj.us,supt_email,,False,False,0
+15,Gloucester,4880,South Harrison Township School District,regular,3415270,www.southharrison.k12.nj.us,southharrison.k12.nj.us,,shsd.us,shsd.us,supt_email,,True,False,0
+15,Gloucester,5120,Swedesboro-Woolwich School District,regular,3415990,www.swedesboro-woolwich.com,swedesboro-woolwich.com,,swsdk6.com,swsdk6.com,supt_email,,True,False,0
+15,Gloucester,1590,Township of Franklin School District,regular,3405430,www.franklintwpschools.org,franklintwpschools.org,,franklintwpschools.org,franklintwpschools.org,supt_email,,False,False,0
+15,Gloucester,5500,Washington Township School District,regular,3417070,www.wtps.org,wtps.org,,wtps.org,wtps.org,supt_email,,False,False,0
+15,Gloucester,5590,Wenonah  Boro School District,regular,3417340,www.wenonahsd.org,wenonahsd.org,,wenonahschool.org,wenonahschool.org,supt_email,,True,False,0
+15,Gloucester,5620,West Deptford Township School District,regular,3417430,www.wdeptford.k12.nj.us,wdeptford.k12.nj.us,,wdeptford.k12.nj.us,wdeptford.k12.nj.us,supt_email,,False,False,0
+15,Gloucester,5740,Westville Boro Public School District,regular,3417790,www.westvillesd.com,westvillesd.com,,gatewayhs.com,gatewayhs.com,supt_email,,True,True,2
+15,Gloucester,5860,Woodbury City Public School District,regular,3418150,www.woodburysch.com,woodburysch.com,,woodburysch.com,woodburysch.com,supt_email,,False,False,0
+15,Gloucester,5870,Woodbury Heights Public School District,regular,3418180,www.woodburyhtselem.com,woodburyhtselem.com,,woodburyhtselem.com,woodburyhtselem.com,supt_email,,False,False,0
+17,Hudson,0220,Bayonne School District,regular,3401260,www.bboed.org,bboed.org,,bboed.org,bboed.org,supt_email,,False,False,0
+80,Hudson,6082,BelovED Community Charter,charter,,www.belovedccs.org,belovedccs.org,,belovedccs.org,belovedccs.org,supt_email,,False,False,0
+80,Hudson,6064,Dr Lena Edwards Academic Charter School,charter,3400756,www.drlenaedwardscharterschool.org,drlenaedwardscharterschool.org,,drlenaedwardscharterschool.org,drlenaedwardscharterschool.org,supt_email,,False,False,0
+17,Hudson,1200,East Newark School District,regular,3404200,www.eastnewarkschool.org,eastnewarkschool.org,,eastnewarkschool.org,eastnewarkschool.org,supt_email,,False,False,0
+80,Hudson,6420,Elysian Charter School,charter,3400029,www.ecsnj.org,ecsnj.org,,ecsnj.org,ecsnj.org,supt_email,,False,False,0
+80,Hudson,6103,Empowerment Academy Charter School,charter,,www.empacad.org,empacad.org,,empacad.org,empacad.org,supt_email,,False,False,0
+17,Hudson,1850,Guttenberg School District,regular,3406240,www.alkschool.org,alkschool.org,,alkschool.org,alkschool.org,supt_email,,False,False,0
+17,Hudson,2060,Harrison Public Schools,regular,3406870,www.harrisonschools.org,harrisonschools.org,,harrisonschools.org,harrisonschools.org,supt_email,,False,False,0
+80,Hudson,6720,Hoboken Charter School District,charter,3400032,www.hobokencs.org,hobokencs.org,,hobokencs.net,hobokencs.net,supt_email,,True,False,0
+80,Hudson,6036,Hoboken Dual Language Charter School,charter,3400734,http://holahoboken.org/,holahoboken.org,,holahoboken.org,holahoboken.org,supt_email,,False,False,0
+17,Hudson,2210,Hoboken Public School District,regular,3407350,www.hoboken.k12.nj.us,hoboken.k12.nj.us,,hoboken.k12.nj.us,hoboken.k12.nj.us,supt_email,,False,False,0
+80,Hudson,6105,Hudson Arts and Science Charter School,charter,,https://ilearnschools.org/hudson-arts-science-charter-school/,ilearnschools.org,,ilearnschools.org,ilearnschools.org,supt_email,,False,True,3
+17,Hudson,2295,Hudson County Schools of Technology School District,regular,3407570,https://hcstonline.org/,hcstonline.org,,hcstonline.org,hcstonline.org,supt_email,,False,False,0
+80,Hudson,6910,Jersey City Community Charter School,charter,3400033,www.jcccsonline.org,jcccsonline.org,,jcccsonline.org,jcccsonline.org,supt_email,,False,False,0
+80,Hudson,6093,Jersey City Global Charter School,charter,,www.jcgcs.org,jcgcs.org,,jcgcs.org,jcgcs.org,supt_email,,False,False,0
+80,Hudson,6915,Jersey City Golden Door Charter School,charter,3400034,www.goldendoorschool.org,goldendoorschool.org,,jcgdcs.org,jcgdcs.org,supt_email,,True,False,0
+17,Hudson,2390,Jersey City Public School District,regular,3407830,www.jcboe.org,jcboe.org,,jcboe.org,jcboe.org,supt_email,,False,False,0
+17,Hudson,2410,Kearny,regular,3407890,kearnyschools.com,kearnyschools.com,,kearnyschools.com,kearnyschools.com,supt_email,,False,False,0
+80,Hudson,7898,Kindle Education Public Charter School,charter,3480366,https://www.kindleeducation.org/,kindleeducation.org,,kindleeducation.org,kindleeducation.org,supt_email,,False,False,0
+17,Hudson,3610,North Bergen School District,regular,3411460,www.northbergen.k12.nj.us,northbergen.k12.nj.us,,northbergen.k12.nj.us,northbergen.k12.nj.us,supt_email,,False,False,0
+17,Hudson,4730,Secaucus School District,regular,3414850,www.sboe.org,sboe.org,,sboe.org,sboe.org,supt_email,,False,False,0
+80,Hudson,7830,Soaring Heights Charter School,charter,3400036,www.shcsjc.org,shcsjc.org,,shcsjc.org,shcsjc.org,supt_email,,False,False,0
+80,Hudson,6030,The Ethical Community Charter School School Distirct,charter,3400727,http://www.teccs-jc.org/,teccs-jc.org,,teccsjc.org,teccsjc.org,supt_email,,True,False,0
+80,Hudson,7115,The Learning Community Charter School,charter,3400035,www.lccsnj.org,lccsnj.org,,lccsnj.org,lccsnj.org,supt_email,,False,False,0
+17,Hudson,5240,Union City School District,regular,3416380,www.ucboe.us,ucboe.us,,ucboe.us,ucboe.us,supt_email,,False,False,0
+80,Hudson,8060,University Academy Charter High School,charter,3400073,www.uachs.org,uachs.org,,uachs.org,uachs.org,supt_email,,False,False,0
+17,Hudson,5580,Weehawken Public School District,regular,3417310,www.weehawken.k12.nj.us,weehawken.k12.nj.us,,weehawken.k12.nj.us,weehawken.k12.nj.us,supt_email,,False,False,0
+17,Hudson,5670,West New York School District,regular,3417580,www.wnyschools.net,wnyschools.net,,wnyschools.net,wnyschools.net,supt_email,,False,False,0
+19,Hunterdon,0020,Alexandria Township School District,regular,3400690,www.alexandriaschools.org,alexandriaschools.org,,alexandriaschools.org,alexandriaschools.org,supt_email,,False,False,0
+19,Hunterdon,0370,Bethlehem Township School District,regular,3401710,www.btschools.org,btschools.org,,btschools.org,btschools.org,supt_email,,False,False,0
+19,Hunterdon,0430,Bloomsbury Borough School District,regular,3401890,www.bburyes.org,bburyes.org,,bburyes.org,bburyes.org,supt_email,,False,False,0
+19,Hunterdon,0670,Califon Borough School District,regular,3402610,www.califonschool.org,califonschool.org,,califonschool.org,califonschool.org,supt_email,,False,False,0
+19,Hunterdon,0920,Clinton Township School District,regular,3403360,www.ctsdnj.org,ctsdnj.org,,ctsdnj.org,ctsdnj.org,supt_email,,False,False,0
+19,Hunterdon,0910,Clinton-Glen Gardner School District,regular,3403330,cpsnj.org,cpsnj.org,,cpsnj.org,cpsnj.org,supt_email,,False,False,0
+19,Hunterdon,1040,Delaware Township School District,regular,3403720,www.dtsk8.org,dtsk8.org,,dtsk8nj.org,dtsk8nj.org,supt_email,,True,False,0
+19,Hunterdon,1050,Delaware Valley Regional High School District,regular,3403750,www.dvrhs.org,dvrhs.org,,dvrhs.k12.nj.us,dvrhs.k12.nj.us,supt_email,,True,False,0
+19,Hunterdon,1160,East Amwell Township School District,regular,3404080,www.eastamwell.org,eastamwell.org,,eastamwell.org,eastamwell.org,supt_email,,False,False,0
+19,Hunterdon,1510,Flemington-Raritan Regional School District,regular,3405190,https://www.frsd.us/,frsd.us,,frsd.us,frsd.us,supt_email,,False,False,0
+19,Hunterdon,1600,Franklin Township School District,regular,3405460,www.ftschool.org,ftschool.org,,ftschool.org,ftschool.org,supt_email,,False,False,0
+19,Hunterdon,1680,Frenchtown Borough School District,regular,3405700,https://www.frenchtownschool.org/,frenchtownschool.org,,frenchtownschool.org,frenchtownschool.org,supt_email,,False,False,0
+19,Hunterdon,1970,Hampton Borough School District,regular,3406600,www.hamptonpublicschool.ORG,hamptonpublicschool.org,,hamptonpublicschool.org,hamptonpublicschool.org,supt_email,,False,False,0
+19,Hunterdon,2140,High Bridge Borough School District,regular,3407110,www.hbschools.org,hbschools.org,,hbschools.org,hbschools.org,supt_email,,False,False,0
+19,Hunterdon,2220,Holland Township School District,regular,3407380,www.hollandschool.org,hollandschool.org,,hollandschool.org,hollandschool.org,supt_email,,False,False,0
+19,Hunterdon,2300,Hunterdon Central Regional High School District,regular,3407590,www.hcrhs.org,hcrhs.org,,hcrhs.org,hcrhs.org,supt_email,,False,False,0
+19,Hunterdon,2305,Hunterdon County Educational Services Commission,regular,3480360,www.hunterdonesc.org,hunterdonesc.org,,hunterdonesc.org,hunterdonesc.org,supt_email,,False,False,0
+19,Hunterdon,2308,Hunterdon County Vocational School District,vocational,3400050,www.hcpolytech.org,hcpolytech.org,,hcvsd.org,hcvsd.org,supt_email,,True,False,0
+19,Hunterdon,2450,Kingwood Township School District,regular,3408010,WWW.KINGWOODSCHOOL.ORG,kingwoodschool.org,,kingwoodschool.org,kingwoodschool.org,supt_email,,False,False,0
+19,Hunterdon,2590,Lebanon Borough School District,regular,3408430,www.lebanonschool.org,lebanonschool.org,,lebanonschool.org,lebanonschool.org,supt_email,,False,False,0
+19,Hunterdon,2600,Lebanon Township School District,regular,3408460,www.lebtwpk8.org,lebtwpk8.org,,lebtwpk8.org,lebtwpk8.org,supt_email,,False,False,0
+19,Hunterdon,3180,Milford Borough School District,regular,3410170,www.milfordpublicschool.com,milfordpublicschool.com,,milfordpublicschool.com,milfordpublicschool.com,supt_email,,False,False,0
+19,Hunterdon,3660,North Hunterdon-Voorhees Regional High School District,regular,3411610,http://www.nhvweb.net,nhvweb.net,,nhvweb.net,nhvweb.net,supt_email,,False,False,0
+19,Hunterdon,4350,Readington Township School District,regular,3413710,www.readington.k12.nj.us,readington.k12.nj.us,,readington.k12.nj.us,readington.k12.nj.us,supt_email,,False,False,0
+19,Hunterdon,1376,South Hunterdon Regional School District,regular,3400769,www.shrsd.org,shrsd.org,,shrsd.org,shrsd.org,supt_email,,False,False,0
+19,Hunterdon,5180,Tewksbury Township School District,regular,3416170,www.tewksburyschools.org,tewksburyschools.org,,tewksburyschools.org,tewksburyschools.org,supt_email,,False,False,0
+19,Hunterdon,5270,Union Township School District,regular,3416440,www.uniontwpschool.org,uniontwpschool.org,,uniontwpschool.org,uniontwpschool.org,supt_email,,False,False,0
+80,Mercer,7895,Achievers Early College Prep Charter School,charter,,http://achieversecp.org/,achieversecp.org,,sboffice.com,sboffice.com,ba_email,,True,False,0
+21,Mercer,3105,Area Vocational Technical School District of Mercer County,vocational,3409950,www.mcts.edu,mcts.edu,,mcts.edu,mcts.edu,supt_email,,False,False,0
+21,Mercer,1245,East Windsor Regional School District,regular,3404320,www.ewrsd.org,ewrsd.org,,ewrsd.k12.nj.us,ewrsd.k12.nj.us,supt_email,,True,False,0
+21,Mercer,1430,Ewing Township School District,regular,3404920,www.ewing.k12.nj.us,ewing.k12.nj.us,,ewingboe.org,ewingboe.org,supt_email,,True,False,0
+80,Mercer,6017,Foundation Academy Charter School,charter,3400717,www.foundationacademies.org,foundationacademies.org,,foundationacademy.org,foundationacademy.org,supt_email,,True,False,0
+21,Mercer,1950,Hamilton Township Public School District,regular,3406540,www.htsdnj.org,htsdnj.org,,htsdnj.org,htsdnj.org,supt_email,,False,False,0
+21,Mercer,2280,Hopewell Valley Regional School District,regular,3407530,www.hvrsd.org,hvrsd.org,,hvrsd.org,hvrsd.org,supt_email,,False,False,0
+80,Mercer,6810,International Charter School of Trenton,charter,3400041,Internationalcs.org,internationalcs.org,,internationalcs.org,internationalcs.org,supt_email,,False,False,0
+21,Mercer,2580,Lawrence Township Public School District,regular,3408400,www.ltps.org,ltps.org,,ltps.org,ltps.org,supt_email,,False,False,0
+21,Mercer,3103,Mercer County Special Services School District,special_services,3480200,www.mcsssd.info,mcsssd.info,,mcsssd.us,mcsssd.us,supt_email,,True,False,0
+80,Mercer,7500,Pace Charter School of Hamilton,charter,3400042,https://www.pacecharter.com/pcs/.,pacecharter.com,,charter.k12.nj.us,charter.k12.nj.us,ba_email,,True,True,1
+80,Mercer,6025,Paul Robeson Charter School for the Humanities,charter,School Safety Specialist,Rose,,junk_value,paulrobesoncs.org,paulrobesoncs.org,supt_email,,False,False,0
+80,Mercer,7540,Princeton Charter School,charter,3400043,https://princetoncharter.org/,princetoncharter.org,,princetoncharter.org,princetoncharter.org,supt_email,,False,False,0
+21,Mercer,4255,Princeton Public School District,regular,3413410,www.princetonk12.org,princetonk12.org,,princetonk12.org,princetonk12.org,supt_email,,False,False,0
+21,Mercer,5510,Robbinsville Public School District,regular,3417100,https://www.robbinsvillek12.gov,robbinsvillek12.gov,,robbinsvilek12.gov,robbinsvilek12.gov,supt_email,,True,False,0
+80,Mercer,8140,The Village Charter School,charter,3400046,www.villagecharter.org,villagecharter.org,,villagecharter.org,villagecharter.org,supt_email,,False,False,0
+80,Mercer,7902,Thrive Charter School,charter,3480368,www.thrivecharterschool.org,thrivecharterschool.org,,thrivecharterschool.org,thrivecharterschool.org,supt_email,,False,False,0
+21,Mercer,5210,Trenton Public School District,regular,3416290,http://www.trenton.k12.nj.us,trenton.k12.nj.us,,trenton.k12.nj.us,trenton.k12.nj.us,supt_email,,False,False,0
+21,Mercer,5715,West Windsor-Plainsboro Regional School District,regular,3417700,http://www.ww-p.org/,ww-p.org,,wwprsd.org,wwprsd.org,supt_email,,True,False,0
+23,Middlesex,0750,Carteret Public School District,regular,3402820,http://www.carteretschools.org,carteretschools.org,,carteretschools.org,carteretschools.org,supt_email,,False,False,0
+23,Middlesex,0970,Cranbury Township School District,regular,3403540,www.cranburyschool.org,cranburyschool.org,,cranburyschool.org,cranburyschool.org,supt_email,,False,False,0
+23,Middlesex,1140,Dunellen Public School District,regular,3404020,www.dunellenschools.org,dunellenschools.org,,dunellenschools.org,dunellenschools.org,supt_email,,False,False,0
+23,Middlesex,1170,East Brunswick Township School District,regular,3404110,www.ebnet.org,ebnet.org,,ebnet.org,ebnet.org,supt_email,,False,False,0
+23,Middlesex,1290,Edison Township School District,regular,3404500,http://www.edison.k12.nj.us,edison.k12.nj.us,,edison.k12.nj.us,edison.k12.nj.us,supt_email,,False,False,0
+23,Middlesex,3145,Educational Services Commission of New Jersey,regular,3480180,www.escnj.us,escnj.us,,escnj.us,escnj.us,supt_email,,False,False,0
+80,Middlesex,6635,Greater Brunswick Charter School,charter,3400047,greaterbrunswick.org,greaterbrunswick.org,,greaterbrunswick.org,greaterbrunswick.org,supt_email,,False,False,0
+80,Middlesex,6041,Hatikvah International Academy Charter School,charter,3400735,www.hatikvahcharterschool.org,hatikvahcharterschool.org,,hiacs.org,hiacs.org,supt_email,,True,False,0
+23,Middlesex,2150,Highland Park Boro School District,regular,3407170,WWW.HPSCHOOLS.NET,hpschools.net,,hpschools.net,hpschools.net,supt_email,,False,False,0
+23,Middlesex,2370,Jamesburg Public School District,regular,3407770,www.jamesburg.org,jamesburg.org,,jamesburg.org,jamesburg.org,supt_email,,False,False,0
+23,Middlesex,3120,Metuchen Public School District,regular,3409990,www.metuchenschools.org,metuchenschools.org,,metboe.k12.nj.us,metboe.k12.nj.us,supt_email,,True,False,0
+23,Middlesex,3140,Middlesex Borough School District,regular,3410050,www.middlesex.k12.nj.us,middlesex.k12.nj.us,,middlesex.k12.nj.us,middlesex.k12.nj.us,supt_email,,False,False,0
+80,Middlesex,7896,Middlesex County STEM Charter School,charter,,www.middlesexcharter.org,middlesexcharter.org,,middlesexcharter.org,middlesexcharter.org,supt_email,,False,False,0
+23,Middlesex,3150,Middlesex County Vocational and Technical School District,vocational,3410080,www.mcmsnj.net,mcmsnj.net,,mcmsnj.net,mcmsnj.net,supt_email,,False,False,0
+23,Middlesex,3220,Milltown School District,regular,3410290,www.milltownps.org,milltownps.org,,milltownps.org,milltownps.org,supt_email,,False,False,0
+23,Middlesex,3290,Monroe Township School District,regular,3410500,WWW.MONROE.K12.NJ.US,monroe.k12.nj.us,,monroe.k12.nj.us,monroe.k12.nj.us,supt_email,,False,False,0
+23,Middlesex,3530,New Brunswick School District,regular,3411220,www.nbpschools.net/,nbpschools.net,,nbpsnj.net,nbpsnj.net,supt_email,,True,False,0
+23,Middlesex,3620,North Brunswick Township School District,regular,3411490,www.nbtschools.org,nbtschools.org,,nbtschools.org,nbtschools.org,supt_email,,False,False,0
+23,Middlesex,3845,Old Bridge Township School District,regular,3409270,www.oldbridgeadmin.org,oldbridgeadmin.org,,obps.org,obps.org,supt_email,,True,False,0
+23,Middlesex,4090,Perth Amboy Public School District,regular,3412930,www.paps.net,paps.net,,paps.net,paps.net,supt_email,,False,False,0
+23,Middlesex,4130,Piscataway Township School District,regular,3413050,www.piscatawayschools.org,piscatawayschools.org,,pway.org,pway.org,supt_email,,True,False,0
+23,Middlesex,4660,Sayreville School District,regular,3414640,www.sayrevillek12.net,sayrevillek12.net,,sayrevillek12.net,sayrevillek12.net,supt_email,,False,False,0
+23,Middlesex,4830,South Amboy School District,regular,3415120,www.sapublicschools.com,sapublicschools.com,,sapublicschools.com,sapublicschools.com,supt_email,,False,False,0
+23,Middlesex,4860,South Brunswick School District,regular,3415210,www.sbschools.org,sbschools.org,,sbschools.org,sbschools.org,supt_email,,False,False,0
+23,Middlesex,4910,South Plainfield School District,regular,3415360,www.spboe.org,spboe.org,,spboe.org,spboe.org,supt_email,,False,False,0
+23,Middlesex,4920,South River Public School District,regular,3415390,www.srivernj.org,srivernj.org,,srivernj.org,srivernj.org,supt_email,,False,False,0
+23,Middlesex,4970,Spotswood Public School District,regular,3415540,www.spsd.us,spsd.us,,spsd.us,spsd.us,supt_email,,False,False,0
+23,Middlesex,5850,Woodbridge Township School District,regular,3418120,https://www.woodbridge.k12.nj.us/,woodbridge.k12.nj.us,,wtsdnj.com,wtsdnj.com,supt_email,,True,False,0
+80,Monmouth,6010,Academy Charter High School,charter,3400048,www.academycharterhs.org,academycharterhs.org,,academycharterhs.org,academycharterhs.org,supt_email,,False,False,0
+25,Monmouth,0050,Allenhurst School District,regular,,www.allenhurstnj.org,allenhurstnj.org,,rbb.k12.nj.us,rbb.k12.nj.us,ba_email,,True,True,1
+25,Monmouth,0100,Asbury Park School District,regular,3400930,www.asburypark.k12.nj.us,asburypark.k12.nj.us,,apboe.org,apboe.org,supt_email,,True,False,0
+25,Monmouth,0180,Avon Boro School District,regular,3401140,WWW.AVONSCHOOL.COM,avonschool.com,,avonschool.com,avonschool.com,supt_email,,False,False,0
+25,Monmouth,0225,Bayshore Jointure Commission School District,regular,3400069,www.theshorecenter.org,theshorecenter.org,,moesc.org,moesc.org,supt_email,,True,True,1
+25,Monmouth,0270,Belmar Elementary School District,regular,3401410,www.belmar.k12.nj.us,belmar.k12.nj.us,,belmar.k12.nj.us,belmar.k12.nj.us,supt_email,,False,False,0
+25,Monmouth,0500,Bradley Beach School District,regular,3402130,www.bbesnj.org,bbesnj.org,,bbesnj.org,bbesnj.org,supt_email,,False,False,0
+25,Monmouth,0560,Brielle Boro School District,regular,3402310,www.brielleschool.org,brielleschool.org,,brielleschool.org,brielleschool.org,supt_email,,False,False,0
+80,Monmouth,7891,College Achieve Greater Asbury Park Charter School Distr,charter,,www.collegeachieveasbury.org,collegeachieveasbury.org,,collegeachieve.org,collegeachieve.org,supt_email,,True,True,2
+25,Monmouth,0945,Colts Neck Township School District,regular,3403450,www.coltsneckschools.org,coltsneckschools.org,,coltsneckschools.org,coltsneckschools.org,supt_email,,False,False,0
+25,Monmouth,1000,Deal Boro School District,regular,3403630,www.dealschool.org,dealschool.org,,dealschool.org,dealschool.org,supt_email,,False,True,1
+25,Monmouth,1260,Eatontown Public School District,regular,3404410,www.eatontown.org,eatontown.org,,eatontown.org,eatontown.org,supt_email,,False,False,0
+25,Monmouth,1440,Fair Haven School District,regular,3404950,www.fairhaven.edu,fairhaven.edu,,fairhaven.edu,fairhaven.edu,supt_email,,False,False,0
+25,Monmouth,1490,Farmingdale Public School District,regular,3405130,www.farmingdaleschool.com,farmingdaleschool.com,,farmingdaleschool.com,farmingdaleschool.com,supt_email,,False,False,0
+25,Monmouth,1640,Freehold Borough School District,regular,3405580,www.freeholdboro.k12.nj.us,freeholdboro.k12.nj.us,,freeholdboro.k12.nj.us,freeholdboro.k12.nj.us,supt_email,,False,False,0
+25,Monmouth,1650,Freehold Regional High School District,regular,3405610,www.frhsd.com,frhsd.com,,frhsd.com,frhsd.com,supt_email,,False,False,0
+25,Monmouth,1660,Freehold Township School District,regular,3405640,www.freeholdtwp.k12.nj.us,freeholdtwp.k12.nj.us,,freeholdtwp.k12.nj.us,freeholdtwp.k12.nj.us,supt_email,,False,False,0
+25,Monmouth,2105,Hazlet Township Public School District,regular,3413680,www.hazlet.org,hazlet.org,,hazlet.org,hazlet.org,supt_email,,False,False,0
+25,Monmouth,1456,Henry Hudson Regional School District,regular,3480370,https://www.tridistrict.org/,tridistrict.org,,henryhudsonreg.k12.nj.us,henryhudsonreg.k12.nj.us,supt_email,,True,False,0
+25,Monmouth,2230,Holmdel Township School District,regular,3407410,http://www.holmdelschools.org,holmdelschools.org,,holmdelschools.org,holmdelschools.org,supt_email,,False,False,0
+80,Monmouth,6740,Hope Academy Charter School,charter,3400076,www.hopeacademycs.org,hopeacademycs.org,,hopeacademycs.org,hopeacademycs.org,supt_email,,False,False,0
+25,Monmouth,2290,Howell Township Public School District,regular,3407560,https://www.howell.k12.nj.us/,howell.k12.nj.us,,howell.k12.nj.us,howell.k12.nj.us,supt_email,,False,False,0
+25,Monmouth,2320,Interlaken School District,regular,,www.interlakenboro.com,interlakenboro.com,,interlakenboro.com,interlakenboro.com,ba_email,,False,False,0
+25,Monmouth,2400,Keansburg School District,regular,3407860,www.keansburg.k12.nj.us,keansburg.k12.nj.us,,keansburg.k12.nj.us,keansburg.k12.nj.us,supt_email,,False,False,0
+25,Monmouth,2430,Keyport School District,regular,3407950,www.kpsdschools.org,kpsdschools.org,,kpsdschools.org,kpsdschools.org,supt_email,,False,False,0
+25,Monmouth,4840,Lake Como School District,regular,,www.belmar.k12.nj.us/domain/113,belmar.k12.nj.us,,school.k12.nj.us,school.k12.nj.us,supt_email,,True,False,0
+25,Monmouth,2720,Little Silver Boro School District,regular,3408790,WWW.LITTLESILVERSCHOOLS.ORG,littlesilverschools.org,,littlesilverschools.org,littlesilverschools.org,supt_email,,False,False,0
+25,Monmouth,5645,Loch Arbour School District,regular,0000000,www.locharbournj.us/,locharbournj.us,,dealschool.org,dealschool.org,ba_email,,True,True,1
+25,Monmouth,2770,LONG BRANCH PUBLIC SCHOOL District,regular,3408940,www.longbranch.k12.nj.us,longbranch.k12.nj.us,,longbranch.k12.nj.us,longbranch.k12.nj.us,supt_email,,False,False,0
+25,Monmouth,2920,Manalapan-Englishtown Regional School District,regular,3409390,https://www.mersnj.us/,mersnj.us,,mersnj.us,mersnj.us,supt_email,,False,False,0
+25,Monmouth,2930,Manasquan School District,regular,3409420,www.manasquanschools.org,manasquanschools.org,,manasquan.k12.nj.us,manasquan.k12.nj.us,supt_email,,True,False,0
+25,Monmouth,3030,Marlboro Township School District,regular,3409720,www.mtps.org,mtps.org,,mtps.org,mtps.org,supt_email,,False,False,0
+25,Monmouth,3040,Matawan-Aberdeen Regional School District,regular,3409750,http://www.marsd.org,marsd.org,,marsd.org,marsd.org,supt_email,,False,False,0
+25,Monmouth,3160,Middletown Township Public School District,regular,3410110,www.middletownk12.org,middletownk12.org,,middletownk12.org,middletownk12.org,supt_email,,False,False,0
+25,Monmouth,3200,Millstone Township School District,regular,3410230,www.millstone.k12.nj.us,millstone.k12.nj.us,,millstone.k12.nj.us,millstone.k12.nj.us,supt_email,,False,False,0
+25,Monmouth,3250,Monmouth Beach School District,regular,3410380,WWW.MBSCHOOL.ORG,mbschool.org,,mbschool.org,mbschool.org,supt_email,,False,False,0
+25,Monmouth,3260,Monmouth County Vocational School District,vocational,3417500,www.mcvsd.org,mcvsd.org,,ctemc.org,ctemc.org,supt_email,,True,False,0
+25,Monmouth,3270,Monmouth Regional High School,regular,3410440,www.monmouthregional.net,monmouthregional.net,,monmouthregional.net,monmouthregional.net,supt_email,,False,False,0
+25,Monmouth,3255,Monmouth-Ocean Educational Services Commission School Distri,regular,3480240,www.moesc.org,moesc.org,,moesc.org,moesc.org,supt_email,,False,True,1
+25,Monmouth,3500,Neptune City School District,regular,3411130,www.neptunecityschool.org,neptunecityschool.org,,neptunecityschool.org,neptunecityschool.org,supt_email,,False,False,0
+25,Monmouth,3510,Neptune Township School District,regular,3411160,www.neptune.k12.nj.us,neptune.k12.nj.us,,neptune.k12.nj.us,neptune.k12.nj.us,supt_email,,False,False,0
+25,Monmouth,3830,Oceanport School District,regular,3412120,oceanportschools.org,oceanportschools.org,,oceanportschools.org,oceanportschools.org,supt_email,,False,False,0
+25,Monmouth,4360,Red Bank Borough Public School District,regular,3413740,www.rbb.k12.nj.us,rbb.k12.nj.us,,rbb.k12.nj.us,rbb.k12.nj.us,supt_email,,False,True,1
+80,Monmouth,7720,Red Bank Charter School,charter,3400049,www.redbankcharterschool.com,redbankcharterschool.com,,redbankcharterschool.com,redbankcharterschool.com,supt_email,,False,False,0
+25,Monmouth,4365,Red Bank Regional School District,regular,3413750,www.rbrhs.org,rbrhs.org,,rbrhs.org,rbrhs.org,supt_email,,False,False,0
+25,Monmouth,4520,Roosevelt Borough Public School District,regular,3414220,www.rps1.org,rps1.org,,rps1.org,rps1.org,supt_email,,False,False,0
+25,Monmouth,4570,Rumson Borough School District,regular,3414370,www.rumsonschool.org,rumsonschool.org,,rumsonschool.org,rumsonschool.org,supt_email,,False,False,0
+25,Monmouth,4580,Rumson-Fair Haven Regional High School District,regular,3414400,www.rumsonfairhaven.org,rumsonfairhaven.org,,rumsonfairhaven.org,rumsonfairhaven.org,supt_email,,False,False,0
+25,Monmouth,4690,Sea Girt Borough School District,regular,3414730,www.seagirt.k12.nj.us,seagirt.k12.nj.us,,seagirt.k12.nj.us,seagirt.k12.nj.us,supt_email,,False,False,0
+25,Monmouth,4760,Shore Regional High School District,regular,3414940,www.shoreregional.org,shoreregional.org,,shoreregional.org,shoreregional.org,supt_email,,False,False,0
+25,Monmouth,4770,Shrewsbury Borough School District,regular,3414970,www.sbs.k12.nj.us/sbs,sbs.k12.nj.us,,sbs-nj.org,sbs-nj.org,supt_email,,True,False,0
+25,Monmouth,4980,Spring Lake Borough,regular,3415570,www.slboe.org,slboe.org,,slboe.org,slboe.org,supt_email,,False,False,0
+25,Monmouth,4990,Spring Lake Heights School District,regular,3415600,www.slheights.org,slheights.org,,slheights.org,slheights.org,supt_email,,False,False,0
+25,Monmouth,5185,Tinton Falls School District,regular,3416200,www.tfschools.org,tfschools.org,,tfschools.org,tfschools.org,supt_email,,False,False,0
+25,Monmouth,3810,Township of Ocean School District,regular,3412060,www.oceanschools.org,oceanschools.org,,oceanschools.org,oceanschools.org,supt_email,,False,False,0
+25,Monmouth,5230,Union Beach Public School District,regular,3416350,www.unionbeachschools.org,unionbeachschools.org,,unionbeachschools.org,unionbeachschools.org,supt_email,,False,False,0
+25,Monmouth,5310,Upper Freehold Regional School District,regular,3416560,www.ufrsd.net,ufrsd.net,,ufrsd.net,ufrsd.net,supt_email,,False,False,0
+25,Monmouth,5420,Wall Township Public School District,regular,3416890,https://www.wallpublicschools.org/,wallpublicschools.org,,wallpublicschools.org,wallpublicschools.org,supt_email,,False,False,0
+25,Monmouth,5640,West Long Branch School District,regular,3417490,www.wlbschools.com,wlbschools.com,,wlbschools.com,wlbschools.com,supt_email,,False,False,0
+27,Morris,0450,Boonton Town Public School District,regular,3401950,www.boontonschools.org,boontonschools.org,,boontonschools.org,boontonschools.org,supt_email,,False,False,0
+27,Morris,0460,Boonton Township School District,regular,3401980,www.btrvs.org,btrvs.org,,btrvs.org,btrvs.org,supt_email,,False,False,0
+27,Morris,0630,Butler Public School District,regular,3402520,www.butlerboe.org,butlerboe.org,,butlerboe.org,butlerboe.org,supt_email,,False,False,0
+27,Morris,0820,Chester Township School District,regular,3403060,www.chester-nj.org,chester-nj.org,,chester-nj.org,chester-nj.org,supt_email,,False,False,0
+27,Morris,1090,Denville Township K-8 School District,regular,3403870,www.denville.org,denville.org,,denville.org,denville.org,supt_email,,False,False,0
+27,Morris,1110,Dover Public School District,regular,3403930,https://dover-nj.org,dover-nj.org,,dover-nj.org,dover-nj.org,supt_email,,False,False,0
+27,Morris,1190,East Hanover Township School District,regular,3404170,www.easthanoverschools.org,easthanoverschools.org,,easthanoverschools.org,easthanoverschools.org,supt_email,,False,False,0
+27,Morris,3364,Educational Services Commission of Morris County,regular,3480260,www.escmorris.com,escmorris.com,,escmorris.com,escmorris.com,supt_email,,False,False,0
+27,Morris,1530,Florham Park School District,regular,3405250,www.fpks.org,fpks.org,,fpks.org,fpks.org,supt_email,,False,False,0
+27,Morris,1990,Hanover Park Regional High School District,regular,3406660,www.hpreg.org,hpreg.org,,hpreg.org,hpreg.org,supt_email,,False,False,0
+27,Morris,2000,Hanover Township School District,regular,3406690,www.hanovertwpschools.com,hanovertwpschools.com,,htboe.org,htboe.org,supt_email,,True,False,0
+27,Morris,2010,Harding Township School District,regular,3406720,www.hardingtwp.org,hardingtwp.org,,hardingtwp.org,hardingtwp.org,supt_email,,False,False,0
+27,Morris,2380,Jefferson Township Public School District,regular,3407800,www.jefftwp.org,jefftwp.org,,jefftwp.org,jefftwp.org,supt_email,,False,False,0
+27,Morris,2460,Kinnelon School District,regular,3408040,www.kinnelonpublicschools.org,kinnelonpublicschools.org,,kinnelon.org,kinnelon.org,supt_email,,True,False,0
+27,Morris,2650,Lincoln Park School District,regular,3408580,www.lincolnparkboe.org,lincolnparkboe.org,,lincpk.com,lincpk.com,supt_email,,True,False,0
+27,Morris,4000,Long Hill Township School District,regular,3412660,www.longhill.org,longhill.org,,longhill.org,longhill.org,supt_email,,False,False,0
+27,Morris,2870,Madison Public School District,regular,3409240,www.madisonpublicschools.org,madisonpublicschools.org,,madisonnjps.org,madisonnjps.org,supt_email,,True,False,0
+27,Morris,3090,Mendham Borough School District,regular,3409900,www.mendhamboro.org,mendhamboro.org,,mendhamboroschools.org,mendhamboroschools.org,supt_email,,True,False,0
+27,Morris,3100,Mendham Township School District,regular,3409930,www.mendhamtwp.org,mendhamtwp.org,,mendhamtwp.org,mendhamtwp.org,supt_email,,False,False,0
+27,Morris,3240,Mine Hill Township School District,regular,3410350,www.minehillcas.org,minehillcas.org,,minehillcas.org,minehillcas.org,supt_email,,False,False,0
+27,Morris,3340,Montville Township School District,regular,3410650,https://www.montville.net/,montville.net,,montville.net,montville.net,supt_email,,False,False,0
+27,Morris,3365,Morris County Vocational School District,vocational,3410720,www.mcvts.org,mcvts.org,,mcvts.org,mcvts.org,supt_email,,False,False,0
+27,Morris,3370,Morris Hills Regional School District,regular,3410740,www.mhrd.org,mhrd.org,,mhrd.org,mhrd.org,supt_email,,False,False,0
+27,Morris,3380,Morris Plains School District,regular,3410770,sites.google.com/mpsdk8.org/mpsdk8/home,,third_party_host,mpsdk8.org,mpsdk8.org,supt_email,,False,False,0
+27,Morris,3385,Morris School District,regular,3410810,www.morrisschooldistrict.org,morrisschooldistrict.org,,msdk12.net,msdk12.net,supt_email,,True,False,0
+27,Morris,3410,Mount Arlington Public School District,regular,3410860,www.mtartlingtonk8.org,mtartlingtonk8.org,,mtarlingtonk8.org,mtarlingtonk8.org,supt_email,,True,False,0
+27,Morris,3450,Mount Olive Township School District,regular,3410980,https://www.motsd.org/,motsd.org,,motsd.org,motsd.org,supt_email,,False,False,0
+27,Morris,3460,Mountain Lakes Public School District,regular,3411010,www.mlschools.org/district,mlschools.org,,mlschools.org,mlschools.org,supt_email,,False,False,0
+27,Morris,3520,Netcong School District,regular,3411190,www.netcongschool.org,netcongschool.org,,netcongschool.org,netcongschool.org,supt_email,,False,False,0
+27,Morris,3950,Parsippany-Troy Hills Township School District,regular,3412480,www.pthsd.k12.nj.us,pthsd.k12.nj.us,,pthsd.net,pthsd.net,supt_email,,True,False,0
+27,Morris,4080,Pequannock Township School District,regular,3412900,www.pequannock.org,pequannock.org,,pequannock.org,pequannock.org,supt_email,,False,False,0
+27,Morris,4330,Randolph Township School District,regular,3413650,www.rtnj.org,rtnj.org,,rtnj.org,rtnj.org,supt_email,,False,False,0
+27,Morris,4440,Riverdale School District,regular,3413980,www.rpsnj.org,rpsnj.org,,rpsnj.org,rpsnj.org,supt_email,,False,False,0
+27,Morris,4480,Rockaway Borough School District,regular,3414100,www.rockboro.org,rockboro.org,,rockboro.org,rockboro.org,supt_email,,False,False,0
+27,Morris,4490,Rockaway Township School District,regular,3414130,http://www.rocktwp.net,rocktwp.net,,rocktwp.net,rocktwp.net,supt_email,,False,False,0
+27,Morris,4560,Roxbury Township School District,regular,3414340,www.roxbury.org,roxbury.org,,roxbury.org,roxbury.org,supt_email,,False,False,0
+27,Morris,0785,School District of the Chathams,regular,3400004,www.chatham-nj.org,chatham-nj.org,,chatham-nj.org,chatham-nj.org,supt_email,,False,False,0
+80,Morris,8050,Unity Charter School,charter,3400051,www.unitycharterschool.org,unitycharterschool.org,,unitycharterschool.org,unitycharterschool.org,supt_email,,False,False,0
+27,Morris,5520,Washington Township School District,regular,3417130,www.wtschools.org,wtschools.org,,wtschools.org,wtschools.org,supt_email,,False,False,0
+27,Morris,5660,West Morris Regional High School District,regular,3417550,www.wmrhsd.org,wmrhsd.org,,wmrhsd.org,wmrhsd.org,supt_email,,False,False,0
+27,Morris,5770,Wharton Borough School District,regular,3417880,www.wbps.org,wbps.org,,wbps.org,wbps.org,supt_email,,False,False,0
+29,Ocean,0185,Barnegat Township School District,regular,3416470,www.barnegatschools.com,barnegatschools.com,,barnegatschools.com,barnegatschools.com,supt_email,,False,False,0
+29,Ocean,0210,Bay Head Borough School District,regular,3401230,www.bayheadschool.org,bayheadschool.org,,bayheadschool.org,bayheadschool.org,supt_email,,False,False,0
+29,Ocean,0230,Beach Haven School District,regular,3401290,www.BeachHavenSchool.com,beachhavenschool.com,,beachhavenschool.com,beachhavenschool.com,supt_email,,False,False,0
+29,Ocean,0320,Berkeley Township School District,regular,3401560,www.btboe.org,btboe.org,,btboe.org,btboe.org,supt_email,,False,False,0
+29,Ocean,0530,Brick Township Public School District,regular,3402220,www.brickschools.org,brickschools.org,,brickschools.org,brickschools.org,supt_email,,False,False,0
+29,Ocean,0770,Central Regional School District,regular,3402910,www.centralreg.k12.nj.us,centralreg.k12.nj.us,,centralregional.net,centralregional.net,supt_email,,True,False,0
+29,Ocean,1150,Eagleswood Township School District,regular,3404050,www.eagleswood.org,eagleswood.org,,etesd.com,etesd.com,supt_email,,True,False,0
+29,Ocean,2350,Island Heights School District,regular,3407710,www.islandheights.k12.nj.us,islandheights.k12.nj.us,,islandheights.k12.nj.us,islandheights.k12.nj.us,supt_email,,False,False,0
+29,Ocean,2360,Jackson Township School District,regular,3407740,www.jacksonsd.org,jacksonsd.org,,jacksonsd.org,jacksonsd.org,supt_email,,False,False,0
+29,Ocean,2480,Lacey Township School District,regular,3408100,www.laceyschools.org,laceyschools.org,,laceyschools.org,laceyschools.org,supt_email,,False,False,0
+29,Ocean,2500,Lakehurst School District,regular,3408160,www.lakehurstschool.org,lakehurstschool.org,,lakehurstschool.org,lakehurstschool.org,supt_email,,False,False,0
+29,Ocean,2520,Lakewood Township School District,regular,3408220,www.lakewoodpiners.org,lakewoodpiners.org,,lakewoodpiners.org,lakewoodpiners.org,supt_email,,False,False,0
+29,Ocean,2550,Lavallette Borough School District,regular,3408310,www.lavallettek12.org,lavallettek12.org,,lavallettek12.org,lavallettek12.org,supt_email,,False,True,1
+29,Ocean,2690,Little Egg Harbor Township School District,regular,3408700,www.lehsd.org,lehsd.org,,lehsd.org,lehsd.org,supt_email,,False,False,0
+29,Ocean,2760,Long Beach Island School District,regular,3408910,www.lbischools.org,lbischools.org,,lbischools.org,lbischools.org,supt_email,,False,False,0
+29,Ocean,2940,Manchester Township School District,regular,3409450,www.manchestertwp.org,manchestertwp.org,,mtschools.org,mtschools.org,supt_email,,True,False,0
+80,Ocean,7893,Ocean Academy Charter School,charter,,https://www.oceanacademycharter.com/,oceanacademycharter.com,,oceanacademycs.org,oceanacademycs.org,supt_email,,True,False,0
+29,Ocean,3790,Ocean County Vocational Technical School District,vocational,3411980,www.ocvts.org,ocvts.org,,ocvts.org,ocvts.org,supt_email,,False,False,0
+29,Ocean,3800,Ocean Gate School District,regular,3412030,www.oceangateschool.net,oceangateschool.net,,oceangateschool.net,oceangateschool.net,supt_email,,False,False,0
+29,Ocean,3820,Ocean Township School District,regular,3412090,www.otsdk6.org,otsdk6.org,,otsdk6.org,otsdk6.org,supt_email,,False,False,0
+29,Ocean,4105,Pinelands Regional School District,regular,3413000,www.pinelandsregional.org,pinelandsregional.org,,prsdnj.org,prsdnj.org,supt_email,,True,False,0
+29,Ocean,4190,Plumsted Township School District,regular,3413230,www.newegypt.us,newegypt.us,,newegypt.us,newegypt.us,supt_email,,False,False,0
+29,Ocean,4220,Point Pleasant Beach School District,regular,3413320,www.ptbeach.com,ptbeach.com,,ptbeach.com,ptbeach.com,supt_email,,False,False,0
+29,Ocean,4210,Point Pleasant Borough School District,regular,3413290,www.pointpleasant.k12.nj.us,pointpleasant.k12.nj.us,,pointpleasant.k12.nj.us,pointpleasant.k12.nj.us,supt_email,,False,False,0
+29,Ocean,4710,Seaside Heights School District,regular,3414790,http://www.sshschool.org/,sshschool.org,,sshschool.org,sshschool.org,supt_email,,False,False,0
+29,Ocean,4720,Seaside Park Borough School District,regular,3414820,www.seasideparkschool.com,seasideparkschool.com,,lavallettek12.org,lavallettek12.org,supt_email,,True,True,1
+29,Ocean,4950,Southern Regional School District,regular,3415480,www.srsd.net,srsd.net,,srsd.net,srsd.net,supt_email,,False,False,0
+29,Ocean,5020,Stafford Township School District,regular,3415690,www.staffordschools.org,staffordschools.org,,staffordschools.org,staffordschools.org,supt_email,,False,False,0
+29,Ocean,5190,Toms River Regional School District,regular,3416230,www.trschools.com,trschools.com,,trschools.com,trschools.com,supt_email,,False,False,0
+29,Ocean,5220,Tuckerton Borough School District,regular,3416320,www.tesnj.com,tesnj.com,,tesnj.com,tesnj.com,supt_email,,False,False,0
+31,Passaic,0420,Bloomingdale School District,regular,3401860,www.bpsnj.org,bpsnj.org,,bpsnj.org,bpsnj.org,supt_email,,False,False,0
+80,Passaic,6230,Classical Academy Charter School of Clifton,charter,3400052,www.classicalacademy.org,classicalacademy.org,,classicalacademy.org,classicalacademy.org,supt_email,,False,False,0
+31,Passaic,0900,Clifton Public School District,regular,3403300,www.clifton.k12.nj.us/,clifton.k12.nj.us,,cliftonschools.net,cliftonschools.net,supt_email,,True,False,0
+80,Passaic,7892,College Achieve Paterson Charter School,charter,,collegeachievepaterson.org,collegeachievepaterson.org,,collegeachieve.org,collegeachieve.org,supt_email,,True,True,2
+80,Passaic,6021,Community Charter School of Paterson,charter,3400718,www.ccsp.org,ccsp.org,,ccsp.org,ccsp.org,supt_email,,False,False,0
+31,Passaic,1920,Haledon Public School District,regular,3406450,www.haledon.org,haledon.org,,haledon.org,haledon.org,supt_email,,False,False,0
+31,Passaic,2100,Hawthorne Public School District,regular,3406990,https://www.hawthorneschools.org/,hawthorneschools.org,,hawthorne.k12.nj.us,hawthorne.k12.nj.us,supt_email,,True,False,0
+80,Passaic,6079,John P Holland Charter School School District,charter,3400748,www.jphcs.org,jphcs.org,,johnpholland.com,johnpholland.com,supt_email,,True,False,0
+31,Passaic,2510,Lakeland Regional High School District,regular,3408190,www.lakeland.k12.nj.us,lakeland.k12.nj.us,,lakeland.k12.nj.us,lakeland.k12.nj.us,supt_email,,False,False,0
+31,Passaic,2700,Little Falls Township Public School District,regular,3408730,www.lfschools.org,lfschools.org,,lfschools.org,lfschools.org,supt_email,,False,False,0
+31,Passaic,3640,North Haledon School District,regular,3411550,www.nhschools.net/nh,nhschools.net,,nhschools.net,nhschools.net,supt_email,,False,False,0
+31,Passaic,3975,Northern Region Educational Services Commission,regular,3480364,www.nresc.org,nresc.org,,nresc.org,nresc.org,supt_email,,False,False,0
+80,Passaic,6080,Passaic Arts and Science Charter School,charter,3400745,https://ilearnschools.org/passaic-arts-science-charter-school/,ilearnschools.org,,ilearnschools.org,ilearnschools.org,supt_email,,False,True,3
+31,Passaic,3970,Passaic City School District,regular,3412540,www.passaicschools.org/,passaicschools.org,,passaicschools.org,passaicschools.org,supt_email,,False,False,0
+31,Passaic,3980,Passaic County Manchester Regional High School District,regular,3412600,WWW.MRHS.NET,mrhs.net,,mrhs.net,mrhs.net,supt_email,,False,False,0
+31,Passaic,3995,Passaic County Technical-Vocational School District,vocational,3412630,www.pctvs.org,pctvs.org,,pctvs.org,pctvs.org,supt_email,,False,False,0
+31,Passaic,3990,Passaic Valley Regional High School District,regular,3412570,www.pvrhs.org,pvrhs.org,,pvrhs.org,pvrhs.org,supt_email,,False,False,0
+80,Passaic,6096,Paterson Arts and Science Charter School,charter,,https://ilearnschools.org/paterson-arts-science-charter-school/,ilearnschools.org,,ilearnschools.org,ilearnschools.org,supt_email,,False,True,3
+80,Passaic,7503,Paterson Charter School for Science and Technology,charter,3400087,www.pcsst.org,pcsst.org,,pcsst.org,pcsst.org,supt_email,,False,False,0
+80,Passaic,7899,Paterson Preparatory Charter School,charter,3480367,www.patersonprep.org,patersonprep.org,,kippnj.org,kippnj.org,supt_email,,True,True,2
+31,Passaic,4010,Paterson Public School District,regular,3412690,www.paterson.k12.nj.us,paterson.k12.nj.us,,paterson.k12.nj.us,paterson.k12.nj.us,supt_email,,False,False,0
+80,Passaic,6106,Philip's Academy Charter School of Paterson,charter,,www.pacspaterson.org,pacspaterson.org,,pacspaterson.org,pacspaterson.org,supt_email,,False,False,0
+31,Passaic,4230,Pompton Lakes School District,regular,3413350,https://plps-k12.org/en-us,plps-k12.org,,plps.org,plps.org,supt_email,,True,False,0
+31,Passaic,4270,Prospect Park Public School District,regular,3413470,www.prospectparknj.com,prospectparknj.com,,prospectparknj.com,prospectparknj.com,supt_email,,False,False,0
+31,Passaic,4400,Ringwood School District,regular,3413860,www.njrps.org,njrps.org,,njrps.org,njrps.org,supt_email,,False,False,0
+31,Passaic,5200,Totowa Public School District,regular,3416260,www.totowa.k12.nj.us,totowa.k12.nj.us,,totowa.k12.nj.us,totowa.k12.nj.us,supt_email,,False,False,0
+31,Passaic,5440,Wanaque School District,regular,3416950,www.wanaqueps.org,wanaqueps.org,,wanaqueps.org,wanaqueps.org,supt_email,,False,False,0
+31,Passaic,5570,Wayne Township Public School District,regular,3417280,www.wayneschools.com,wayneschools.com,,wayneschools.com,wayneschools.com,supt_email,,False,False,0
+31,Passaic,5650,West Milford Township Public School District,regular,3417520,www.wmtps.org,wmtps.org,,wmtps.org,wmtps.org,supt_email,,False,False,0
+31,Passaic,5690,Woodland Park School District,regular,3417640,www.wpschools.org,wpschools.org,,wpschools.org,wpschools.org,supt_email,,False,False,0
+33,Salem,0060,Alloway Twp School District,regular,3400810,www.allowayschool.org,allowayschool.org,,allowayschool.org,allowayschool.org,supt_email,,False,False,0
+80,Salem,7897,Creativity CoLaboratory Charter School,charter,0,https://c3school.us/,c3school.us,,c3school.org,c3school.org,supt_email,,True,False,0
+33,Salem,1350,Elsinboro Township School District,regular,3404680,www.elsinboroschool.org,elsinboroschool.org,,elsinboroschool.org,elsinboroschool.org,supt_email,,False,False,0
+33,Salem,2950,Mannington Township School District,regular,3409480,manningtonschool.org,manningtonschool.org,,manningtonschool.org,manningtonschool.org,supt_email,,False,False,0
+33,Salem,3860,Oldmans Township School District,regular,3412210,WWW.OLDMANS.ORG,oldmans.org,,oldmans.org,oldmans.org,supt_email,,False,False,0
+33,Salem,4070,Penns Grove-Carneys Point Regional School District,regular,3412840,www.pgcpschools.org,pgcpschools.org,,pgcpschools.org,pgcpschools.org,supt_email,,False,False,0
+33,Salem,4075,Pennsville School District,regular,3409120,www.psdnet.org,psdnet.org,,pv-eagles.org,pv-eagles.org,supt_email,,True,False,0
+33,Salem,4150,Pittsgrove Township School District,regular,3413110,www.pittsgrove.net,pittsgrove.net,,pittsgrove.net,pittsgrove.net,supt_email,,False,False,0
+33,Salem,4280,Quinton Township School District,regular,3413500,www.quintonschool.info,quintonschool.info,,quintonschool.info,quintonschool.info,supt_email,,False,False,0
+33,Salem,4630,Salem City School District,regular,3414550,www.SALEMNJ.ORG,salemnj.org,,salemnj.org,salemnj.org,supt_email,,False,False,0
+33,Salem,4635,Salem County Special Services School District,special_services,3480361,scsssd.org,scsssd.org,,scsssd.net,scsssd.net,supt_email,,True,False,0
+33,Salem,4640,Salem County Vocational Technical School District,vocational,3414580,www.scvts.org,scvts.org,,scvts.org,scvts.org,supt_email,,False,False,0
+33,Salem,2800,The Lower Alloways Creek School District,regular,3409030,www.lacschool.org,lacschool.org,,lacschool.org,lacschool.org,supt_email,,False,False,0
+33,Salem,5320,UPPER PITTSGROVE TWP School District,regular,3416590,https://www.upsnj.org/,upsnj.org,,upsmailbox.net,upsmailbox.net,supt_email,,True,False,0
+33,Salem,5910,Woodstown-Pilesgrove Regional School District,regular,3418330,www.woodstown.org,woodstown.org,,woodstown.org,woodstown.org,supt_email,,False,False,0
+35,Somerset,0240,Bedminster Township Public School District,regular,3401320,www.bedminsterschool.org,bedminsterschool.org,,bedminsterschool.org,bedminsterschool.org,supt_email,,False,False,0
+35,Somerset,0350,Bernards Township School District,regular,3401650,www.bernardsboe.com,bernardsboe.com,,bernardsboe.com,bernardsboe.com,supt_email,,False,False,0
+35,Somerset,0490,Bound Brook School District,regular,3402100,https://bbrook.org/,bbrook.org,,bbrook.k12.nj.us,bbrook.k12.nj.us,supt_email,,True,False,0
+35,Somerset,0510,Branchburg Township School District,regular,3402160,www.branchburg.k12.nj.us,branchburg.k12.nj.us,,branchburg.k12.nj.us,branchburg.k12.nj.us,supt_email,,False,False,0
+35,Somerset,0555,Bridgewater-Raritan Regional School District,regular,3402280,www.brrsd.org,brrsd.org,,brrsd.k12.nj.us,brrsd.k12.nj.us,supt_email,,True,False,0
+80,Somerset,6018,Central Jersey College Prep Charter School,charter,3400090,www.cjcollegeprep.org,cjcollegeprep.org,,cjcollegeprep.org,cjcollegeprep.org,supt_email,,False,False,0
+35,Somerset,1610,Franklin Township Public School District,regular,3405490,www.franklinboe.org,franklinboe.org,,franklinboe.org,franklinboe.org,supt_email,,False,False,0
+35,Somerset,1810,Green Brook Township Public School District,regular,3406120,www.gbtps.org,gbtps.org,,gbtps.org,gbtps.org,supt_email,,False,False,0
+35,Somerset,2170,Hillsborough Township Public School District,regular,3407230,www.htps.us,htps.us,,htps.us,htps.us,supt_email,,False,False,0
+35,Somerset,3000,Manville School District,regular,3409630,www.manvilleschools.org,manvilleschools.org,,manvillesd.org,manvillesd.org,supt_email,,True,False,0
+35,Somerset,3320,Montgomery Township School District,regular,3410590,www.mtsd.k12.nj.us,mtsd.k12.nj.us,,mtsd.us,mtsd.us,supt_email,,True,False,0
+35,Somerset,3670,North Plainfield School District,regular,3411640,www.nplainfield.org,nplainfield.org,,nplainfield.org,nplainfield.org,supt_email,,False,False,0
+35,Somerset,4805,Somerset County Educational Services Commission School Distr,regular,3480280,www.somersetcountyesc.org,somersetcountyesc.org,,somersetcountyesc.org,somersetcountyesc.org,supt_email,,False,False,0
+35,Somerset,4810,Somerset County Vocational and Technical School District,vocational,3415060,www.scvths.org,scvths.org,,scvts.net,scvts.net,supt_email,,True,False,0
+35,Somerset,4815,Somerset Hills Regional School District,regular,3400009,http://www.shsd.org/,shsd.org,,shsd.org,shsd.org,supt_email,,False,False,0
+35,Somerset,4820,Somerville Public School District,regular,3415090,www.somervilleschools.org,somervilleschools.org,,somervilleschools.org,somervilleschools.org,supt_email,,False,False,0
+35,Somerset,4850,South Bound Brook Public School District,regular,3415180,www.southboundbrookk8.org,southboundbrookk8.org,,southboundbrookk8.org,southboundbrookk8.org,supt_email,,False,False,0
+80,Somerset,6081,Thomas Edison EnergySmart Charter School,charter,,www.teecs.org,teecs.org,,energysmartschool.org,energysmartschool.org,supt_email,,True,False,0
+35,Somerset,5470,Warren Township School District,regular,3416980,www.warrentboe.org,warrentboe.org,,warrentboe.org,warrentboe.org,supt_email,,False,False,0
+35,Somerset,5540,Watchung Borough School District,regular,3417190,www.watchungschools.com,watchungschools.com,,watchungschools.us,watchungschools.us,supt_email,,True,False,0
+35,Somerset,5550,Watchung Hills Regional High School District,regular,3417220,www.whrhs.org,whrhs.org,,whrhs.org,whrhs.org,supt_email,,False,False,0
+37,Sussex,0090,Andover Regional School District,regular,3400900,www.andoverregional.org,andoverregional.org,,andoverregional.org,andoverregional.org,supt_email,,False,False,0
+37,Sussex,0640,Byram Township School District,regular,3402550,www.byramschools.org,byramschools.org,,byramschools.org,byramschools.org,supt_email,,False,False,0
+37,Sussex,1560,Frankford Township Consolidated School District,regular,3405340,www.frankfordschool.org,frankfordschool.org,,frankfordschool.org,frankfordschool.org,supt_email,,False,False,0
+37,Sussex,1570,Franklin Borough School District,regular,3405400,www.fboe.org,fboe.org,,fboe.org,fboe.org,supt_email,,False,False,0
+37,Sussex,1630,Fredon Township School District,regular,3405550,www.fredon.org,fredon.org,,fredon.org,fredon.org,supt_email,,False,False,0
+37,Sussex,1800,Green Township School District,regular,3406090,www.greenhills.org,greenhills.org,,greenhills.org,greenhills.org,supt_email,,False,False,0
+37,Sussex,1930,Hamburg School District,regular,3406480,www.hamburgschool.com,hamburgschool.com,,hamburgschool.com,hamburgschool.com,supt_email,,False,False,0
+37,Sussex,1980,Hampton Township School District,regular,3406630,www.mckeown.org,mckeown.org,,mckeown.org,mckeown.org,supt_email,,False,False,0
+37,Sussex,2030,Hardyston Township School District,regular,3406780,www.htps.org,htps.org,,htps.org,htps.org,supt_email,,False,False,0
+37,Sussex,2165,High Point Regional High School District,regular,3407140,www.hpregional.org,hpregional.org,,hpregional.org,hpregional.org,supt_email,,False,False,0
+37,Sussex,2240,Hopatcong Borough School District,regular,3407440,www.hopatcongschools.org,hopatcongschools.org,,hopatcongschools.org,hopatcongschools.org,supt_email,,False,False,0
+37,Sussex,2465,Kittatinny Regional School District,regular,3408060,www.krhs.net,krhs.net,,krhs.net,krhs.net,supt_email,,False,False,0
+37,Sussex,2490,Lafayette Township School District,regular,3408130,www.ltes.org,ltes.org,,ltes.org,ltes.org,supt_email,,False,False,0
+37,Sussex,2615,Lenape Valley Regional High School District,regular,3408500,www.lvhs.org,lvhs.org,,lvhs.org,lvhs.org,supt_email,,False,False,0
+37,Sussex,3300,Montague Township School District,regular,3410530,WWW.MONTAGUESCHOOL.ORG,montagueschool.org,,montagueschool.org,montagueschool.org,supt_email,,False,False,0
+37,Sussex,3590,Newton Public School District,regular,3411400,www.newtonnj.org,newtonnj.org,,newtonnj.org,newtonnj.org,supt_email,,False,False,0
+37,Sussex,3840,Ogdensburg Borough School District,regular,3412150,www.obboe.org,obboe.org,,obboe.org,obboe.org,supt_email,,False,False,0
+37,Sussex,4650,Sandyston-Walpack Consolidated School District,regular,3414610,www.sandystonwalpack.org,sandystonwalpack.org,,sandystonwalpack.org,sandystonwalpack.org,supt_email,,False,False,0
+37,Sussex,4960,Sparta Township Public School District,regular,3415510,www.sparta.org,sparta.org,,sparta.org,sparta.org,supt_email,,False,False,0
+37,Sussex,5030,Stanhope School District,regular,3415720,www.stanhopeschools.org,stanhopeschools.org,,stanhopeschools.org,stanhopeschools.org,supt_email,,False,False,0
+37,Sussex,5040,Stillwater Township School District,regular,3415750,www.stillwaterschool.net,stillwaterschool.net,,stillwaterschool.net,stillwaterschool.net,supt_email,,False,False,0
+37,Sussex,5105,Sussex County Educational Services Commission,regular,3480320,www.sussexesc.org,sussexesc.org,,sussexesc.org,sussexesc.org,supt_email,,False,False,0
+37,Sussex,5110,Sussex County Technical School District,vocational,3415930,www.sussextech.org,sussextech.org,,sussextech.org,sussextech.org,supt_email,,False,False,0
+80,Sussex,7850,Sussex County Technology Charter School,charter,3400055,http://www.sussexcharter.org,sussexcharter.org,,sussexcharter.org,sussexcharter.org,supt_email,,False,False,0
+37,Sussex,5100,Sussex-Wantage Regional School District,regular,3415960,www.swregional.org,swregional.org,,swregional.org,swregional.org,supt_email,,False,False,0
+37,Sussex,5360,Vernon Township School District,regular,3416710,www.vtsd.com,vtsd.com,,vtsd.com,vtsd.com,supt_email,,False,False,0
+37,Sussex,5435,Wallkill Valley Regional High School,regular,3416870,www.wallkillvrhs.org,wallkillvrhs.org,,wallkillvrhs.org,wallkillvrhs.org,supt_email,,False,False,0
+80,Union,6033,Barack Obama Green Charter School District,charter,3400740,www.barackobamagreencharterschool.org,barackobamagreencharterschool.org,,barackobamagcs.org,barackobamagcs.org,supt_email,,True,False,0
+39,Union,0310,Berkeley Heights School District,regular,3401530,www.bhpsnj.org,bhpsnj.org,,bhpsnj.org,bhpsnj.org,supt_email,,False,False,0
+39,Union,0850,Clark Township Public School District,regular,3403150,www.clarkschools.org,clarkschools.org,,clarkschools.org,clarkschools.org,supt_email,,False,False,0
+80,Union,6101,College Achieve Central Charter School,charter,,www.collegeachievecentral.org/,collegeachievecentral.org,,collegeachieve.org,collegeachieve.org,supt_email,,True,True,2
+39,Union,0980,Cranford Public School District,regular,3403570,cranfordschools.org,cranfordschools.org,,cranfordschools.org,cranfordschools.org,supt_email,,False,False,0
+80,Union,6102,Cresthaven Academy Charter School,charter,,www.cresthavenacademy.org,cresthavenacademy.org,,cresthavenacdemy.org,cresthavenacdemy.org,supt_email,,True,False,0
+39,Union,1320,Elizabeth Public Schools,regular,3404590,www.epsnj.org,epsnj.org,,epsnj.org,epsnj.org,supt_email,,False,False,0
+39,Union,1710,Garwood Boro,regular,3405790,www.garwoodschools.org,garwoodschools.org,,garwoodschools.org,garwoodschools.org,supt_email,,False,False,0
+39,Union,2190,Hillside Public School District,regular,3407290,https://www.hillsidek12.org/,hillsidek12.org,,hillsidek12.org,hillsidek12.org,supt_email,,False,False,0
+39,Union,2420,Kenilworth School District,regular,3407920,www.kenilworthschools.com,kenilworthschools.com,,ksdnj.org,ksdnj.org,supt_email,,True,False,0
+39,Union,2660,Linden Public School District,regular,3408610,www.lindenps.org,lindenps.org,,lindenps.org,lindenps.org,supt_email,,False,False,0
+39,Union,3395,Morris-Union Jointure Commission School District,regular,3400005,www.mujc.org,mujc.org,,mujc.org,mujc.org,supt_email,,False,False,0
+39,Union,3470,Mountainside School District,regular,3411040,www.mountainsideschools.org,mountainsideschools.org,,mountainsideschools.org,mountainsideschools.org,supt_email,,False,False,0
+39,Union,3560,New Providence School District,regular,3411310,www.npsd.k12.nj.us,npsd.k12.nj.us,,npsdnj.org,npsdnj.org,supt_email,,True,False,0
+39,Union,4160,Plainfield Public School District,regular,3413140,www.plainfieldnjk12.org,plainfieldnjk12.org,,plainfield.k12.nj.us,plainfield.k12.nj.us,supt_email,,True,False,0
+39,Union,4290,Rahway Public School District,regular,3413530,www.rahway.net,rahway.net,,rahway.net,rahway.net,supt_email,,False,False,0
+39,Union,4550,Roselle Park Public School District,regular,3414310,www.rpsd.org,rpsd.org,,rpsd.org,rpsd.org,supt_email,,False,False,0
+39,Union,4540,Roselle Public School District,regular,3414280,WWW.ROSELLESCHOOLS.ORG,roselleschools.org,,roselleschools.org,roselleschools.org,supt_email,,False,False,0
+39,Union,4670,Scotch Plains-Fanwood School District,regular,3414670,www.spfk12.org,spfk12.org,,spfk12.org,spfk12.org,supt_email,,False,False,0
+39,Union,5000,Springfield Public School District,regular,3415630,www.springfieldschools.com,springfieldschools.com,,springfieldschools.com,springfieldschools.com,supt_email,,False,False,0
+39,Union,5090,Summit Public School District,regular,3415900,www.summit.k12.nj.us,summit.k12.nj.us,,summit.k12.nj.us,summit.k12.nj.us,supt_email,,False,False,0
+80,Union,7600,The Queen City Academy Charter School District,charter,3400061,www.queencity.edu,queencity.edu,,queencity.edu,queencity.edu,supt_email,,False,False,0
+39,Union,5290,Township of Union School District,regular,3416500,https://www.tups.org/,tups.org,,twpunionschools.org,twpunionschools.org,supt_email,,True,False,0
+39,Union,5245,Union County Educational Services Commission,regular,3416400,www.ucesc.org,ucesc.org,,ucesc.org,ucesc.org,supt_email,,False,False,0
+80,Union,8010,Union County TEAMS Charter School-High School/College LA,charter,3400083,www.ucteams.org,ucteams.org,,ucteams.org,ucteams.org,supt_email,,False,False,0
+39,Union,5260,Union County Vocational-Technical School District,vocational,3418040,www.ucvts.org,ucvts.org,,ucvts.org,ucvts.org,supt_email,,False,False,0
+39,Union,5730,Westfield Public School District,regular,3417760,www.westfieldnjk12.org,westfieldnjk12.org,,westfieldnjk12.org,westfieldnjk12.org,supt_email,,False,False,0
+39,Union,5810,Winfield Township,regular,3418030,www.winfieldschool.org,winfieldschool.org,,winfieldschool.org,winfieldschool.org,supt_email,,False,False,0
+41,Warren,0030,Allamuchy Township School District,regular,3400720,www.aes.k12.nj.us,aes.k12.nj.us,,aes.k12.nj.us,aes.k12.nj.us,supt_email,,False,False,0
+41,Warren,0070,Alpha Borough School District,regular,3400840,www.apsedu.org,apsedu.org,,apsedu.org,apsedu.org,supt_email,,False,False,0
+41,Warren,0280,Belvidere School District,regular,3401440,www.belvideresd.org,belvideresd.org,,belvideresd.org,belvideresd.org,supt_email,,False,False,0
+41,Warren,0400,Blairstown Elementary Township School District,regular,3401800,www.blairstownelem.net,blairstownelem.net,,blairstownelem.net,blairstownelem.net,supt_email,,False,False,0
+41,Warren,1620,Franklin Township School District,regular,3405520,www.franklinschool.org,franklinschool.org,,franklinschool.org,franklinschool.org,supt_email,,False,False,0
+41,Warren,1670,Frelinghuysen Township School District,regular,3405670,WWW.FRELINGHUYSENSCHOOL.ORG,frelinghuysenschool.org,,frelinghuysenschool.org,frelinghuysenschool.org,supt_email,,False,False,0
+41,Warren,1785,Great Meadows Regional School District,regular,3400008,www.gmrsd.com,gmrsd.com,,gmrsd.com,gmrsd.com,supt_email,,False,False,0
+41,Warren,1840,Greenwich Township School District,regular,3406210,www.gtsd.net,gtsd.net,,gtsd.net,gtsd.net,supt_email,,False,False,0
+41,Warren,1870,Hackettstown Public School District,regular,3406300,www.hackettstown.org,hackettstown.org,,hackettstown.org,hackettstown.org,supt_email,,False,False,0
+41,Warren,2040,Harmony Township School District,regular,3406810,www.htesd.org,htesd.org,,htesd.org,htesd.org,supt_email,,False,False,0
+41,Warren,2250,Hope Township School District,regular,3407470,www.hope-elem.org,hope-elem.org,,hope-elem.org,hope-elem.org,supt_email,,False,False,0
+41,Warren,2470,Knowlton Township School District,regular,3408070,www.knowltonschool.com,knowltonschool.com,,knowltonschool.com,knowltonschool.com,supt_email,,False,False,0
+41,Warren,2790,Lopatcong Township School District,regular,3409000,www.lopatsd.org,lopatsd.org,,lopatsd.org,lopatsd.org,supt_email,,False,False,0
+41,Warren,2970,Mansfield Township Elementary School District,regular,3409540,www.mansfieldtsd.org,mansfieldtsd.org,,mansfieldtsd.org,mansfieldtsd.org,supt_email,,False,False,0
+41,Warren,3675,North Warren Regional School District,regular,3409550,www.northwarren.org,northwarren.org,,northwarren.org,northwarren.org,supt_email,,False,False,0
+41,Warren,3890,Oxford Township School District,regular,3412300,www.oxfordcentral.org,oxfordcentral.org,,oxfordcentral.org,oxfordcentral.org,supt_email,,False,False,0
+41,Warren,4100,Phillipsburg School District,regular,3412960,www.pburgsd.net,pburgsd.net,,pburgsd.net,pburgsd.net,supt_email,,False,False,0
+41,Warren,4200,Pohatcong Township School District,regular,3413260,http://www.pohatcong.org,pohatcong.org,,pohatcong.org,pohatcong.org,supt_email,,False,False,0
+80,Warren,7727,Ridge and Valley Charter School,charter,3400082,www.ridgeandvalley.org,ridgeandvalley.org,,ridgeandvalley.org,ridgeandvalley.org,supt_email,,False,False,0
+41,Warren,5450,Warren County Special Services School District,special_services,3480362,www.wcsssd.org,wcsssd.org,,wcsssd.org,wcsssd.org,supt_email,,False,False,0
+41,Warren,5460,Warren County Vocational Technical School,vocational,3417920,http://www.wctech.org,wctech.org,,wctech.org,wctech.org,supt_email,,False,False,0
+41,Warren,5465,Warren Hills Regional School District,regular,3416970,www.warrenhills.org,warrenhills.org,,,warrenhills.org,website,,False,False,0
+41,Warren,5480,Washington Borough School District,regular,3417010,www.washboroschools.org,washboroschools.org,,washboro.org,washboro.org,supt_email,,True,False,0
+41,Warren,5530,Washington Township School District,regular,3417160,www.washtwpsd.org,washtwpsd.org,,washtwpsd.org,washtwpsd.org,supt_email,,False,False,0
+41,Warren,5780,White Township Consolidated School District,regular,3417910,www.whitetwpsd.org,whitetwpsd.org,,whitetwpsd.org,whitetwpsd.org,supt_email,,False,False,0
